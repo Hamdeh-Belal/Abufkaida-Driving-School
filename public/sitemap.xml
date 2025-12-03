@@ -7,6 +7,15 @@
     <loc>https://abufkaida-driving-school.netlify.app/sitemap-quiz.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://abufkaida-driving-school.netlify.app/sitemap-quiz-private.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://abufkaida-driving-school.netlify.app/sitemap-quiz-heavy.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://abufkaida-driving-school.netlify.app/sitemap-quiz-public.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://abufkaida-driving-school.netlify.app/sitemap-books.xml</loc>
   </sitemap>
   <sitemap>
