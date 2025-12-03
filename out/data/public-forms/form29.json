@@ -1,0 +1,805 @@
+{
+    "formNum": 28,
+    "questions": [
+        {
+            "text": "1 ) يسري مفعول الشاخصة&nbsp;<img src=\"images/22843ad3-67c6-49b8-8d37-f74f925a4334.jpg\">&nbsp;.",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nعلى الطريق التي تقود المركبة فيها .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعلى الطريق التي أمامك .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nعلى الطريق التي تقود المركبة فيها وحتى المفترق القريب.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط على اتجاه حركة السير المقابلة في الطريق التي أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) إذا أقيمت الشاخصة&nbsp;<img src=\"images/214e24c6-d2d2-4d99-837b-6e5f220e8fe7.jpg\">&nbsp;فوق المسلك فتسري على :",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nعلى جميع المسالك في الشارع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعلى مسلك التجاوز في الشارع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعلى جميع المسالك في الشارع ما عدا مسلك المواصلات العمومية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعلى المسلك الذي تحتها.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "3 ) ماذا تعني الشاخصة&nbsp;<img src=\"images/c83c1492-1d37-440a-a121-ffdb86e39806.jpg\">&nbsp;:",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nطريق وعرة( مشوشة ) أمامك .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nطريق جبلية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتمهل أنت تقترب من مخيم.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأشغال على الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) الشاخصة&nbsp;<img src=\"images/73583438-ddf2-4764-bf8e-ca58a21dcaad.jpg\">&nbsp;معناها :",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nأنت تقترب إلى ملتقى تقاطع طرق فيه إشارات ضوئية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nشاخصة قف أمامك على بعد 150 متراً.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nأعط حق الأولوية للمركبات القادمة من اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمدخل نفق أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) تُقام الشاخصة&nbsp;<img src=\"images/3382d20e-5d80-43db-90bc-47820b8f36f3.jpg\">&nbsp;على مسافة:",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\n150م من المنعطف الأول ومثلها على بداية المنعطف الثاني.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n150م من المنعطف الأول ومثلها على بعد 150م من المنعطف الثاني.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n150م من المنعطف الثاني.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n150م من المنعطف الأول.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "6 ) كيف تتصرف عند رؤياك&nbsp;<img src=\"images/79ba2a71-d6a3-449a-a37b-a3f8c523731d.jpg\">&nbsp;التي أقيمت قبل الاستدارة؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nتتقدم بحذر مع الانصياع لتعليمات الشاخصات إذا وُجدت.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتوقف مركبتك قبل خط التوقف أو قبل ممر المشاة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nهذه الشاخصة للمشاة وليست للمركبات.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتوقف مركبتك بجانب الآلة الضوئية القريبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) إذا أقيمت الشاخصة&nbsp;<img src=\"images/d2dc1b50-5835-4e8b-9a55-d59cdcf3e54a.jpg\">&nbsp;على مدخل شارع فهل تمنع دخول المركبات التجارية أيضاً إلى هذا الشارع ؟",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nكلا لا تمنع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم تمنع دخول جميع المركبات التجارية أيضاً.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nهذه الشاخصة تمنع دخول المركبات الخصوصية والصالون العمومي فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتمنع فقط دخول المركبات التجارية التي لا يزيد وزنها الإجمالي عن 4000كغم.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) الطريق التي يمنع الدخول اليها من الجهتين",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nتعتبر في نظر القانون طريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتعتبر في نظر القانون طريق لسواقي المركبات فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتعتبر في نظر القانون طريق فقط لسكان العمارات الموجودة فيه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا تعتبر في نظر القانون طريق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) وقت الإنارة في نظر القانون هو:",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nالليل وكل وقت آخر تكون فيه الرؤية مشوشة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفترة الوقت التي تبدأ بعد ربع ساعة من غروب الشمس وتنتهي بعد ساعة من شروقها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالفترة الواقعة بين 1/11 من كل عام لغاية 31/3 من العام الذي يليه.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفترة الوقت التي تبدأ قبل ربع ساعة من غروب الشمس وتنتهي قبل ربع ساعة من شروقها.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) عند اقتراب السائق من مكان لعبور المشاة",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nيمكن المشاة عبور الطريق ويتوقف عند الضرورة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجب ان يتوقف قبل مكان لعبور المشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيقف مركبته فقط اذا مركبه اخرى توقفت قبل مكان العبور",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيتوقف عن السير في كل حاله حتى عند عدم وجود مشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) عندما تسوق مركبة وفي الطريق التي تسير فيه قدمت مركبة امن",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nخفف من سرعتك وقف على اليمين واعط حق الاولوية لمركبة الامن",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتمهل وسر على يمين الطريق واعط حق الاولوية لمركبة الامن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nخفف من سرعتك فقط اذا كانت مركبة الامن في مسلك سيرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاعط حق الاولية لمركبة الامن فقط اذا كان في خط سير مركبة الامن مسلك واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما هي الحمولة التي لا يجوز نقلها في الباص :",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nأمتعه قد تسبب الضرر للركاب .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأمتعة تسبب تلوث الركاب .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأمتعة تبعث روائح كريهة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكل الإجابات صحيحة .",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) كيف يعرف السائق بالليل انه يسير بالضوء العالي أم الضوء الواطي",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nحسب قوة الضوء فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nحسب رد فعل السواقين القادمين من الاتجاه المعاكس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nحسب ضوء خاص يضيء في لوحة المقاييس داخل المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nحسب مدى الرؤية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) إذا وُجد سهم أصفر في الشاخصة&nbsp;<img src=\"images/8b31672e-baf2-4e11-bfcf-116a2f86e6fb.jpg\">&nbsp;فهذا يعني:",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nالسهم الأصفر يشير إلى أن الطريق تحت التصليح.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالسهم الأصفر يشير إلى اتجاه سير للمواصلات العمومية فقط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا يجوز أن يكون هناك سهم أصفر في الشاخصة المذكورة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالسهم الأصفر يشير إلى هامش الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) مسموح الاجتياز",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا حالة الطرق وحالة السير تسمح بذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط في طريق يزيد عرضه عن 8 امتار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط في طريق ذات اتجاه واحد ذات اكثر من مسلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط اذا كانت مركبتك حديثة الصنع",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) عند الاقتراب من ملتقى سكة حديد والشاخصة&nbsp;<img src=\"images/7e5eb241-5a73-4fbf-b13b-65a6cfa686d7.jpg\">&nbsp;تعمل ولكن الحاجز مفتوح :",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nيجب على سائقي جميع أنواع المركبات التوقف قبل الملتقى .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز عبور الملتقى طالما أننا لا نسمع أو لا نرى القطار .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز عبور الملتقى بحذر إلى أن يتم إغلاقه بواسطة الحاجز .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب على الباص فقط التوقف في طريق ليست بلدية .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) عندما تصور الشرطة مركبة ارتكبت مخالفة سير من المسؤول بنظر القانون",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nلا اهمية للامر المهم دفع الغرامه .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nصاحب المركبة ، الا اذا اثبت أن المركبه كان يسوقها انسان اخر .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالسائق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالسائق الذي صور وممكن تشخيصه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) ما هي وظيفة التشوك (الخانق) في المركبة ?",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nتكوين خليط غني بالوقود لتسهيل تشغيل المحرك بالجو البارد وخصوصا في الصباح",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتكوين خليط غني بالهواء لتسهيل تشغيل المحرك وخصوصا في الصباح",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nايصال الكهرباء بصورة سريعة للمحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتسخين المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) من هي الجهات المخولة بسحب رخصة السواقة ؟",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nسلطة الترخيص",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمحاكم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالشرطة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "20 ) الشاخصة التي تعني مكان لتوقف نوع معين من المركبات على شكل خليج ، هي :",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\n<img src=\"images/d98fd1c6-70a2-4ea8-bd9e-20a12bf97c1a.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/d98fd1c6-70a2-4ea8-bd9e-20a12bf97c1a.jpg",
+                            "id": "d98fd1c6-70a2-4ea8-bd9e-20a12bf97c1a"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\n<img src=\"images/d55b09e3-f265-4573-b4f9-33cbfb40812c.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/d55b09e3-f265-4573-b4f9-33cbfb40812c.jpg",
+                            "id": "d55b09e3-f265-4573-b4f9-33cbfb40812c"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<img src=\"images/b64b3aff-d1b4-449f-bf51-090ea9dbdd14.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/b64b3aff-d1b4-449f-bf51-090ea9dbdd14.jpg",
+                            "id": "b64b3aff-d1b4-449f-bf51-090ea9dbdd14"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<img src=\"images/78e762e4-88cf-427b-ba78-0ef74f9bf5b3.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/78e762e4-88cf-427b-ba78-0ef74f9bf5b3.jpg",
+                            "id": "78e762e4-88cf-427b-ba78-0ef74f9bf5b3"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) عندما توقف مركبتك في طريق صاعدة مع حافة رصيف ، تستعمل فرامل اليد",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nوتستعمل الغيار الاول وتوجه العجلات الامامية لمنتصف الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nوتستعمل الغيار الخلفي وتوجه العجلات الامامية لجهة حافة الرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nوتستعمل الغيار الاول وتوجه العجلات الامامية لحافة الرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nوتستعمل الغيار الخلفي وتوجه العجلات الامامية لمنتصف الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) من المسؤول عن نظافة الباص من الداخل وقت السفر ؟",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nمدير الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nسائق الباص ومدير الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسائق الباص نفسه .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nعامل التنظيفات في الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) هل يجوز لسائق التاكسي مناداة الركاب وأقناعهم بالسفر :",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nكلا .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nحسب رغبة السائق وحسب القانون .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا ، إلا للسفريات الداخلية فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز ذلك .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) الشاخصة&nbsp;<img src=\"images/4646ce54-35eb-4279-ab37-e675a7c2a5b1.jpg\">&nbsp;معناها :",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nالطريق مغلقة أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمفترق - أمامك تفرع طرق إلى اليمين والى اليسار.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nطريق بدون مخرج.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالطريق آخذ في الاتساع.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) من المسؤول عن نظافة الباص من الداخل وقت السفر ؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nمدير الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nسائق الباص ومدير الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسائق الباص نفسه .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nعامل التنظيفات في الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) عندما لا تصل الشراره الكهربائية للبوجيات",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nالمحرك لا يعمل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nهذا يؤثر فقط عند تشغيل المحرك صباحا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nهذا يؤثر على المحرك فقط عند السير بسرعة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمحرك يتوقف عن العمل بانتظام",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) ما هي الطريق البلدية؟",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nكل طريق داخل حدود البلدية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nكل طريق اقيمت على مدخلها اشارة تدل على الدخول الى طريق البلدية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nكل طريق حددت فيها السرعة لغاية 50كم في الساعة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) مسافة الوقوف هي مجموع",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nالزمن الذي تسير فيه المركبة حتى تشعر بالخطر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالزمن من اللحظة التي يضغط فيها السائق على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسافة رد الفعل زائد مسافة الفرملة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالمسافة التي تسير فيها المركبة والعجلات مقفلة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) اذا السلف (الستارتر) لايشتغل , الاضواء لا تنير , والزامور لا يحدث صوتا , عليك ان تفحص",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nاذا كانت اسلاك الاتصال بالبطارية مربوطة جيدا",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاذا كان مقياس الكهرباء (الامبير) يشتغل جيدا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاذا كان حزام الدينمو (المولد الكهربائي) مقطوعا او رخوا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاذا كان مفتاح التشغيل يشتغل حسب الاصول",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) درجة حرارة الماء داخل المحرك يجب ان تكون",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nمنخفضة لمنع تمدد اجزاء المحرك واهترائها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبين 70 و 90 درجة مئوية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا توجد اهمية لدرجة حرارة الماء طالما ان درجة الحرارة لا تسبب غليان الماء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبين 40 و 60 درجة مئوية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

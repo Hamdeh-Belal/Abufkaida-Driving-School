@@ -1,0 +1,825 @@
+{
+    "formNum": 6,
+    "questions": [
+        {
+            "text": "1 ) ماذا ينهي الشاخصة&nbsp;<img src=\"images/e0c0e2e5-ca0f-4276-a08d-edf9e81c0aa6.jpg\">",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nالمفترق القريب.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالشاخصة&nbsp;<img src=\"images/4d292b59-b7f7-44bd-babb-d59e472c3e4a.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/4d292b59-b7f7-44bd-babb-d59e472c3e4a.jpg",
+                            "id": "4d292b59-b7f7-44bd-babb-d59e472c3e4a"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالشاخصة&nbsp;<img src=\"images/0122e4a7-b403-44d5-aef1-8a472be0341c.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/0122e4a7-b403-44d5-aef1-8a472be0341c.jpg",
+                            "id": "0122e4a7-b403-44d5-aef1-8a472be0341c"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالشاخصة&nbsp;<img src=\"images/80e29558-dc7c-40f8-8520-b4591e0b0530.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/80e29558-dc7c-40f8-8520-b4591e0b0530.jpg",
+                            "id": "80e29558-dc7c-40f8-8520-b4591e0b0530"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) الشاخصة&nbsp;<img src=\"images/c3da50f8-a601-4288-8c0d-a4ad77282301.jpg\">&nbsp;معناها:&nbsp;",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nاحذر من يمينك ومن يسارك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا تجوز الاستدارة يميناً أو يساراً.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسر إلى اليمين أو إلى اليسار فقط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالطريق تتحول من مسلك إلى مسلكين.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) ما معنى الشاخصة&nbsp;<img src=\"images/acae6b0f-ab34-46b7-9a20-f2f8ac1f0b3d.jpg\">؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nنهاية المنطقة التي يُحظر فيها دخول مركبة تعليم سياقة أثناء التعليم.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nممنوع دخول مركبة تعليم سياقة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع دخول مركبة تعليم سياقة أثناء التعليم فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع دخول مركبة تعليم سياقة أثناء التعليم ما عدا الباص.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) يعمل مزيل البخار عن الزجاج الامامي",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nبواسطة هواء ساخن يندفع الى الجهة الداخلية للزجاج",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nبواسطة هواء بارد يندفع الى الجهة الخارجية للزجاج",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبواسطة هواء ساخن يندفع الى الجهة الخارجية للزجاج",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبواسطة هواء بارد يندفع الى الجهة الداخلية للزجاج",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) ماذا يسبب استعمال الغيارات بدون الضغط على دعسة الكلاتش في مركبة غير اوتوماتيكية ؟",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nاحتمال كسر التروس المسننة في جهاز الغيار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاحتمال حدوث ضرر للمحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاحتمال حدوث ضرر للمحور الخلفي (الباككس) في المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) كيف تعرف نهاية الطريق البلدية ؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nمن الشاخصة&nbsp;<img src=\"images/498f187f-8948-4730-8d58-db18b2ada9d6.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/498f187f-8948-4730-8d58-db18b2ada9d6.jpg",
+                            "id": "498f187f-8948-4730-8d58-db18b2ada9d6"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمن الشاخصة التي تشير إلى سرعة 80كم/ساعة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن المساحة الفاصلة في وسط الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن أول مفترق بعد الشاخصة&nbsp;<img src=\"images/0ed1bdff-ccdb-47e2-98cd-7bda5e957a4e.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/0ed1bdff-ccdb-47e2-98cd-7bda5e957a4e.jpg",
+                            "id": "0ed1bdff-ccdb-47e2-98cd-7bda5e957a4e"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) إذا أقيمت الشاخصة&nbsp;<img src=\"images/cbc843d6-c879-4534-a891-275b6a186502.jpg\">&nbsp;في الجانب الأيسر من الشارع فتلزم بالوقوف:",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nمن يريد الاستدارة إلى اليسار ومن يريد الاستدارة إلى اليسار للسير في الاتجاه المعاكس.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمن يريد الاستدارة إلى اليسار فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن يريد الاستدارة إلى أية جهة كانت.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط من يريد الاستدارة إلى اليسار للسير في الاتجاه المعاكس.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) اذا قام شرطي بتوجيه سائق للدخول الى طريق ممنوع الدخول اليها",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nيجوز للسائق دخول الطريق الممنوعة فقط بطريقة الرجوع الى الخلف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب على السائق اطاعة الامر فقط اذا كان الشرطي برتبة ملازم اول وما فوق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز للسائق دخول طريق ممنوعة حتى ولو امر شرطي بذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب على السائق اطاعة امر الشرطي",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "9 ) هل يجوز لصاحب مركبة خصوصية نقل ركاب بالاجرة ؟",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nيجوز اذا كان صاحب المركبة الخصوصية يعمل في مؤسسة او شركة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nممنوع",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز بشرط ان تكون السفرة خاصة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز في الخطوط التي لا تعمل عليها مواصلات عامة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) هل يجوز لفاحص يحمل هوية فاحص من سلطة الترخيص فحص مركبة وانزالها عن الطريق ؟",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nيجوز فقط لضابط شرطة برتبة ملازم اول وما فوق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nكلا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز للفاحص عمل ذلك اذا ابرز امرا من سلطة الترخيص الرئيسية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) قبل مكان لعبور المشاة ، ممنوع الاجتياز",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nفي جميع الاحوال",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفي جميع الاحوال في طريق ليست بلدية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا كانت هناك الاشاره التي تحذر من الاقتراب من مكان لعبور المشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط في طريق ليست بلدية ذات مسلكين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) انت تسير في طريق ذات اتجاه واحد وتريد الاستدارة الى اليسار لطريق ذات اتجاهين ، عليك الاستدارة",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nمن الجهة اليمنى للطريق والى المسلك الايسر للطريق المقصود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمن الجهة اليسرى للطريق والى المسلك الايسر للطريق المقصود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن الجهة اليسرى للطريق بقوس عريض إلى أقصى اليمين للطريق المقصود",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمن الجهة اليمنى للطريق والى المسلك الايمن للطريق المقصود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) كيف يستدير السائق إلى اليمين من طريق ذات اتجاه واحد إلى طريق ذات اتجاه واحد؟",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nمن أقصى اليمين على قدر الامكان إلى أقصى اليمين.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمن أقصى اليسار على قدر الامكان إلى أقصى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن أقصى اليسار على قدر الامكان إلى أقصى اليسار.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن أقصى اليمين على قدر الامكان إلى أقصى اليسار.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) استعمال الطريق يجب أن يكون بشكل:",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nيتيح الوصول إلى الغاية المنشودة بأقصر طريق وبسرعة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يعرقل حركة السير ولا يعرض أحداً للخطر.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيؤمن سير سريع ومتواصل.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) ماذا ينهي الشاخصة&nbsp;<img src=\"images/ec08f97b-6beb-48f4-b524-b6f015746f25.jpg\">&nbsp;؟",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nالمفترق القريب.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالشاخصة<img src=\"images/a945d3af-434c-49b6-a105-ec044adb4560.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/a945d3af-434c-49b6-a105-ec044adb4560.jpg",
+                            "id": "a945d3af-434c-49b6-a105-ec044adb4560"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالشاخصة&nbsp;<img src=\"images/12007079-3498-446b-841b-3d9b21076b06.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/12007079-3498-446b-841b-3d9b21076b06.jpg",
+                            "id": "12007079-3498-446b-841b-3d9b21076b06"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالشاخصة<img src=\"images/e905a05e-18a1-4e2e-a511-e2df1c03c94e.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/e905a05e-18a1-4e2e-a511-e2df1c03c94e.jpg",
+                            "id": "e905a05e-18a1-4e2e-a511-e2df1c03c94e"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) تعني الشاخصة&nbsp;<img src=\"images/0d2e64a9-cc23-40e9-ac62-ad0a85c438a3.jpg\">",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nسبيل للدرجات الهوائية والمشاة فقط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمكان ممر المشاة والدراجات الهوائية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز ركوب المشاة على الدراجات الهوائية في هذه الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسلك خاص للدراجات الهوائية والمشاة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) عندما تعمل الإشارة<img src=\"images/7963b3e2-9a94-4e55-9cb4-d161d2734c99.jpg\">&nbsp;وليس هناك خط وقوف أو حاجز، يجب الوقوف على مسافة",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\n10م من الملتقى.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n6م من اقرب قضيب إليك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n4م من اقرب قضيب إليك.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\n4م من الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) هل يترتب على سائق المركبة ان يستعمل مشيرة الاتجاه (الغماز)عندما ينوي تحريك مركبته",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nنعم ، في طريق ذات اتجاه واحد فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم اذا كان ينوي التحول عن مسلك سيره فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nنعم ، في طريق داخل المدن فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) عند ايقاف المركبة في طريق صاعدة",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nعليك استعمال الغيار الاول الامامي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعليك استعمال الغيار الخلفي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعليك استعمال الغيار السريع",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعليك استعمال الغيار النيوترال",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) الشاخصة&nbsp;<img src=\"images/6be5a846-3649-4b00-8def-6e0e9589a25a.jpg\">&nbsp;معناها:",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nتمهل أمامك تفرع طرق إلى اليسار والى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتمهل أمامك تفرع طرق إلى الأمام ثم إلى اليسار.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتمهل أمامك تفرع طرق إلى اليمين والى اليسار.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتمهل أمامك تفرع طرق إلى اليمين ثم إلى اليسار.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "21 ) الشاخصة <img src=\"images/71c0c3a8-75b5-4ade-885b-60c0eaf23295.jpg\" class=\"\" style=\"margin: 0px; resize: none; position: relative; zoom: 1; display: block; height: 81px; width: 80px; top: 0px; left: 0px;\">&nbsp;تعني :",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\n&nbsp;&nbsp;لا يجوز دخول مركبة تجارية يقل وزنها عن ما هو مسجل في الشاخصة.&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n&nbsp;لا يجوز دخول مركبة يزيد ارتفاعها عن ما هو مسجل في الشاخصة.&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n&nbsp;الدخول ممنوع فقط للمركبات التجارية التي يزيد وزنها الإجمالي عن ما هو مسجل في الشاخصة.&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n&nbsp;لا يجوز دخول أية مركبة يزيد وزنها الإجمالي عن ما هو مسجل في الشاخصة.&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) متى تشترط سلطة الترخيص تجديد رخصة سائق جديد باجتياز امتحانات تقررها",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاذا سحب ضابط الشرطة رخصته لمدة 60 يوما",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاذا سحبت المحكمة رخصته لمدة شهر واحد او اكثر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاذا ساق مركبة ميكانيكية بدون رخصة سوق سارية المفعول لنفس نوع المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) من بحوزته رخصة سواقة درجة 2 يمكنه ان يسوق",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nمركبة خصوصية ومركبة تجارية لا يزيد وزنها الاجمالي عن 2200 كغم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمركبة خصوصية ومركبة تجارية لا يزيد وزنها الاجمالي عن 4 طن",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمركبة خصوصية ومركبة تجارية لا يزيد وزنها الاجمالي لغاية 4 طن وتراكتور",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمركبة خصوصية ومركبة خصوصية مزدوجة الاستعمال فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) في المركبات الحديثة يوجد مصباح لجهاز الفرامل يضيء",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nعندما يكون هناك نقص في سائل الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفي كل حالة عند عدم استعمال فرامل اليد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي كل حالة عند عدم استعمال فرامل الرجل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعندما تسخن بطانة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) كيف يتم فتح غطاء المبرد ( الرادياتور ) عندما يكون المحرك ساخن؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nممنوع فتح الغطاء عندما يكون المحرك ساخن.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب فتح الغطاء بعد أن تبرد المياه داخل الرادياتور.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب فتح الغطاء بحذر خوفا من انطلاق البخار الساخن.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجب فتح الغطاء فورا لإطلاق البخار.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) كيف تتصرف إذا سخنت الفرامل زيادة عن اللازم أثناء الفرملة المتواصلة ؟",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nاستمر بالسير العادي وقلل من استعمال الفرامل.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاستعمل بشكل مؤقت فرامل الوقوف (الهاندبريك).",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتوقف! انتظر إلى أن تبرد الفرامل واستمر بالسير بغيار واطئ جدا.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nاستمر بالسير بسرعة لكي تبرد الفرامل.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) ما هو جهاز مراقبة التوازن (الثبات) الإلكتروني في المركبة \"إي.إس.بي\" (ESP) ؟",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nجهاز يصحح أخطاء السائق عند الفرملة يمنع التزحلق ويساعد على زيادة توازن المركبة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nجهاز يمنع إمكانية حدوث خلل في جهاز فرامل المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجهاز يمنع إمكانية حدوث خلل في جهاز مقود المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجهاز يمنع إقفال عجلات المركبة عند الفرملة الفجائية ، وبهذا تتم المحافظة على عمل مقود المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) عرّف \" خفت الأضواء\":",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nإطفاء الضوء الواطئ في المصابيح الأمامية وإضاءة الضوء العالي.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتغيير ارتفاع شعاع نور الوقوف.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتبديل الضوء العالي في المصابيح الأمامية وإضاءة الضوء الواطئ.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتبديل الضوء العالي وإضاءة ضوء الضباب.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) هل تؤثر مقاومة الريح على سير المركبة ؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nتؤثر فقط على ثبات المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتؤثر فقط على سرعة سير المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتؤثر فقط عند السير عكس اتجاه الريح",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتؤثر في جميع الحالات على ثبات المركبة وسرعتها",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "30 ) هل يجوز وقوف مركبة في طريق ذات اتجاهين داخل المدن ؟",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كانت هناك شاخصة تسمح بذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاذا كان الوقوف لا يعرقل حركة السير ولا توجد اشارة تمنع ذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا يجوز على الاطلاق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاذا كان عرض الطريق يزيد عن 12 مترا",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

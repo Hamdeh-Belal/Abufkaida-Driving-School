@@ -1,0 +1,785 @@
+{
+    "formNum": 28,
+    "questions": [
+        {
+            "text": "1 ) ما هي وظيفة الزيت في المحرك؟",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nيساعد على تخفيض صوت المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيمنع الاحتكاك بين الاجزاء المتحركة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيمتص الغازات السامة ويخرجها عن طريق العادم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) هل يجب التاكد من ارتفاع مستوى الزيت داخل المحرك؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nنعم , يجب ان تكون كمية الزيت اقل من الحد لئلا يتمدد الزيت ويلوث جسم المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم , يجب ان تكون كمية الزيت اعلى بقليل من الحد لان الزيت يتبخر مع الحرارة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم , لان كمية الزيت تقدر من منتج المحرك وتكفي لعمل المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلا توجد اهمية لكمية الزيت اذا كانت اكثر او اقل من الحد المطلوب المهم ان يكون هناك ضغط زيت",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) ماذا ترينا ساعة الحرارة في المحرك؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nدرجة حرارة المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nدرجة حرارة الزيت في &nbsp;المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nدرجة حرارة الماء في &nbsp;المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهذا دليل على ان الساعة لا تعمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) ما هو ترتيب العمليات بعد تركيب &nbsp;العجل الاضافي؟",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nانزال المركبة ثم شد البراغي بقوة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nشد برغيين متقابليين , انزال الرافعة ثم شد باقي البراغي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nشد البراغي بقوة وانزال المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nشد البراغي , انزال المركبة ثم تقوية شد البراغي",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "5 ) اذا كانت كمية زيت (سائل) الفرامل ناقصة:",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nهذا دليل على ان هناك نقص زيت في الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفرامل اليد لا تعمل بصورة جيدة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفرامل الرجل لا تعمل بصورة جيدة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهذا دليل على ان هناك تسرب زيت في الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) لماذا يجب ان يكون ضغط الهواء في الاطارات حسب اوامر المنتج؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nللمحافظة على ثبات المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلمنع استهلاك زائد للاطارات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلتسهيل عملية المقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) سيارة مجهزة بمحرك الديزل,هل يجب ان تقفل مضخة البخ بواسطة سدادة",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nنعم, واجب قفل مضخة البخ بسدادة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنعم, ما عدا التراكتور وسيارات الصحة العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا, فقط السيارات العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا, لا حاجة لاقفال مضخة البخ بسدادة خلال 2000 ساعة عمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) ما هو السبب لغليان الماء داخل الرادياتور وعدم تعبئة الدينامو للبطارية ؟",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nقشاط (حزام) المروحة رخو او ممزق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنقص في مياه المبرد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنقص في زيت المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمحرك لا يعمل في صورة جيدة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) لماذا يجب ان يكون فراغ في دواسة الكلاتش&nbsp;",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nلنقل الغيارات بسرعة اكبر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يجب ان يكون فراغ في دواسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللتقليل من استهلاك قطع الكلاتش",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلتسهيل عملية الدوس على دواسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) ما هي الجملة الصحيحة ؟&nbsp;",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nالمركبة تسير لأن احتراق الوقود يتحول الى عادم لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمركبة تسير لأن احتراق الوقود يتحول الى كهرباء لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمركبة تسير لأن احتراق الوقود يتحول الى حرارة شديدة لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمركبة تسير لأن احتراق الوقود يتحول الى قوة لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "11 ) عندما تكون براغي طوق العجل جنطة العجل رخوات",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nممنوع السير حتى نشد ونقوي البراغي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمسموح الاستمرار في السير ولكن ممنوع الجر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح الاستمرار في السير الى اقرب كراج\n<br>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح الاستمرار في السير فقط اذا كانت فرامل التراكتور صالحة\n<br>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) وظيفة الفرزات (الاخاديد) في الاطار هي",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nلتمكين حمولة زائدة في المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلالصاق الاوساخ والزيت في الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللحفاظ على شكل مستدير وموحد للاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالتقاط الاجسام الغريبة والمياه وزيادة تماسك الاطار في الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) بعد تشغيل المحرك من المستحسن تمكين المحرك من العمل لعدة دقائق",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nبسرعة 1500 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبسرعة 1200 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبسرعة 1000 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nبسرعة 800 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) عمق الاخاديد (الفرزات) في الاطار بموجب القانون",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nيجب ان لا يقل عن 2 ملم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجب ان لا يقل عن 15 سم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالسمك القانوني هو الذي يمكن من السير الامن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يوجد قانون يحدد السمك الادنى للاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) بالرغم من الضغط على دعسة الكلاتش للاخير فان تغير الغيارات صعبا",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nهناك فصل زيادة عن الازم في الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمشكلة في علبة التروس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالكلاتش لا يفصل فصلا تاما",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهناك فراغ كبير في الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) هل احتكاك االاطار بحافة الرصيف يشابة احتكاك &nbsp;الاطار بالاسفلت ؟&nbsp;",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nنعم لا يوجد فرق بين الحالتين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nكلا احتكاك الاطار بالاسفلت اخطر بكثير من احتكاكه بالرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم احتكاك الاطار بحافة الرصيف يعادل احتكاكة بالكركار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكلا الاحتكاك في الحافة من شأنه تمزيق الاطار",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "17 ) ملائمة كرسي السائق ، مهمة للسائق",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nكي لا يتعب السائق عند السير وأن يعمل بصورة صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط لجلوس مريح",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا أهمية للأمر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط بالنسبة لطول أرجل السائق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) اخراج هواء من الاطار يحسن من تماسكه بالطريق",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nغير صحيح",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط اذا كانت الطريق رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا كانت الطريق جافة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nصحيح",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) الفرملة الفجائية الافضل على طريق رطبة هي&nbsp;",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nضغط قوي ومتواصل على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفرملة بواسطة فرملة اليد&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالضغط بالتدريج على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفرملة بواسطة تخفيض الغيارات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) اغلب ثقل الوقوف يقع على&nbsp;",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nالعجلات الخلفية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالعجلات الامامية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "5\nالثقل يتوزع بصورة متساوية على جميع العجلات فقط في طريق رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "6\nالثقل يتوزع بصورة متساوية على جميع العجلات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) تزحلق عجلات المركبة يتسبب من&nbsp;",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nانحراف فجائي&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاسراع فجائي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفرملة قوية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) ما هي القوة الطاردة المركزية ؟",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nالقوة التي تعمل على اخراج المركبة من داخل المنعطف الى الخارج",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالقوة التي تقاوم وقوف المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يوجد اي تأثير لهذه القوة على المركبة اطلاقا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالقوة التي تدفع المركبة بشكل مستقيم الى الامام",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) اذا ظهر الضوء الازرق على لوحة المقاييس ، هذا معناه",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nأننا نستعمل أضواء الوقوف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأننا نستعمل الضوء الواطي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأننا نستعمل الضوء العالي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nأننا نستعمل ماسحات الزجاج الامامي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) في المركبات الحديثه يوجد مصباح لجهاز الفرامل يضىء في لوحة المقياس ، عندما",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nيكون هناك نقص في زيت الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيوجد هناك ضغط عالي لسائل الفرامل في جهاز الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيوجد هناك نقص في هواء احد العجلات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاقراص العجلات تسخن نتيجة وقوف فجائي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) اذا اضاء مصباح التحذير للمولد الكهربائي (الدينامو ) هذا يعني",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nاذا كان هناك انقطاع في جهاز الاحتراق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبان المحرك يسخن اكثر من المعتاد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبان هناك خلل في عملية شحن البطارية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nبان جميع الاضواء تعمل جيدا",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) في جو ماطر يمكن ان نستعمل مزيل البخار الخلفي الذي&nbsp;",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nيساعد في تغير الهواء من داخل المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيسخن وجه المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيهيئ للسائق مدى رؤية جيدة من الخلف للسير بامان",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيطهر الهواء من الدخان",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) مقاومة الريح لسير المركبة ، يؤثر",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nفقط عند السير في طريق منحدرة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي جميع الحالات على ثبات المركبة وسرعتها",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفقط على مدى سرعة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط عند السير ضد الريح",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) كيف تبرد الماء داخل الرادياتور ؟",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nبواسطة الهواء الخارجي فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبواسطة التهوية وزيادة حجم سطح ملامسة المياة للهواء الخارجي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nبواسطة جمع الماء في خزان واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبواسطة الهواء الخارجي فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) ما هو تعريف الحيوانات في انظمة المرور ؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nكل انواع الحيوانات والطيور التي يمنع نقلها في المركبة العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالدواب والحيوانات الأليفة باستثناء الكلاب والقطط والطيور الداجنة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالماعز والخرفان فقط والتي تستعمل الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالدواب الخطرة والتي تقاد بواسطة لجام",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) إذا تم وسم (تأشير) الشارع بخط فاصل متواصل وعلى يساره خط متقطع:",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nممنوع عبور الخطوط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nخط متواصل مع خط متقطع على يساره هو مساحة فاصلة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح عبور الخط المتواصل من أجل التجاوز فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nذلك غير ممكن: يظهر الخط المتقطع فقط على يمين الخط الفاصل الأبيض.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

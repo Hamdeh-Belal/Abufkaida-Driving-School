@@ -1,0 +1,815 @@
+{
+    "formNum": 2,
+    "questions": [
+        {
+            "text": "1 ) ماذا تعني الشاخصة&nbsp;<img src=\"images/a10c0c05-224f-4415-8489-d63a03af9a91.jpg\">",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nطريق وعرة( مشوشة ) أمامك .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nطريق جبلية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتمهل أنت تقترب من مخيم.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأشغال على الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) ما هي الشاخصة التي معناها لافتة للتحذير وللإرشاد وللمنع أو للتحديد؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\n<img src=\"images/26d21505-cdc1-4ebe-bdf0-6dd94574fd95.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/26d21505-cdc1-4ebe-bdf0-6dd94574fd95.jpg",
+                            "id": "26d21505-cdc1-4ebe-bdf0-6dd94574fd95"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n<img src=\"images/58227b53-c3d9-4417-932a-5dfd715fb3a0.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/58227b53-c3d9-4417-932a-5dfd715fb3a0.jpg",
+                            "id": "58227b53-c3d9-4417-932a-5dfd715fb3a0"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\n<img src=\"images/acb8b038-74f7-4065-bd4c-4b8deaa0f6b1.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/acb8b038-74f7-4065-bd4c-4b8deaa0f6b1.jpg",
+                            "id": "acb8b038-74f7-4065-bd4c-4b8deaa0f6b1"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<img src=\"images/e6969036-c1a9-42dd-b43f-c6c24731ac0e.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/e6969036-c1a9-42dd-b43f-c6c24731ac0e.jpg",
+                            "id": "e6969036-c1a9-42dd-b43f-c6c24731ac0e"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) تعني الشاخصة [[<img src=\"images/6c07072a-f416-4055-a243-eb30b0543c82.jpg\">]] :",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nممنوع دخول مركبة يزيد وزنها الإجمالي المسموح به عما هو مسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nممنوع دخول مركبة تجارية يزيد وزنها الإجمالي المسموح به عما هو مسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع دخول المركبات التي يزيد عرضها مع حمولتها بالأمتار عما هو مسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nممنوع دخول مركبة لا يزيد عرضها بالأمتار عما هو مسجل بالشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) عندما توقف المركبة في منحدر مع رصيف ، تستعمل فرامل اليد:",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nتوجه العجلات الأمامية لجهة وسط الطريق وتستعمل الغيار الخلفي.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتوجه العجلات الأمامية لجهة وسط الطريق وتستعمل الغيار الأول.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتوجه العجلات الأمامية لجهة الرصيف وتستعمل الغيار الأول.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتوجه العجلات الأمامية لجهة الرصيف وتستعمل الغيار الخلفي.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "5 ) في طريق ليست خالية ولمسافة كافية",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nممنوع الاجتياز فقط اذا اقيمت شاخصة ممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب الاجتياز ببطء وبحذر شديد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب الاجتياز بسرعة فائقة على قدر الامكان",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "6 ) إذا أُقيمت الشاخصة [[<img src=\"images/c48d8ea2-9097-4689-a25c-4b9a5453a688.jpg\">]] على يسار الطريق :",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك إذا كنت تريد الاستدارة إلى اليسار أو الاستدارة إلى اليسار للسير في الاتجاه المعاكس.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك إذا كنت تريد الاستدارة إلى اليسار.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "7 ) لا يجوز الوقوف والتوقف :",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nفي حدود 15م قبل وبعد محطة الباص ومن جانبي الطريق إلا إذا بلغ عرض الطريق 12م أو أكثر .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي حدود محطة باص .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفي حدود 12م قبل وبعد محطة باص .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي حدود 12م قبل وبعد الشاخصة التي تشير إلى محطة باص .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) من بحوزته رخصة سواقة درجة 2 (B)يستطيع ان يسوق",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nمركبة خصوصية ومركبة تجارية لا يزيد وزنها الاجمالي عن 4 طن",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمركبة تجارية لغاية وزن اجمالي 2200 كغم فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nدراجة نارية ومركبة خصوصية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتراكتور ومركبة خصوصية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) اذا قام شرطي بتوجيه سائق للدخول الى طريق ممنوع الدخول اليه",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nيجوز للسائق دخول الطريق الممنوعة فقط بطريقة الرجوع الى الخلف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب على السائق اطاعة امر الشرطي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا يجوز للسائق دخول طريق ممنوعة حتى ولو امر شرطي بذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب على السائق اطاعة الامر فقط اذا كان الشرطي برتبة ملازم اول وما فوق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) وقوف فجائي مسموح ، عندما",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nلا تكون هناك طريقة أخرى لمنع &nbsp;وقوع حادثة طرق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالفرامل قوية جدا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالفرامل ضعيفة جدا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالسائق يريد الرجوع الى المكان الذي قدم منه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) الشاخصة&nbsp;<img src=\"images/6612fccd-4033-4659-906c-1e5fd5e0d23c.jpg\">&nbsp;تعني :",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nخطوط توجيه للاستدارة في المفترقات.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاذرع مفترق تؤدي إلى طرق ذات اتجاه واحد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز الاستدارة إلى اليمين أو إلى اليسار في المفترق الذي أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز الاستدارة إلى اليمين فقط في مثل هذا المفترق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) تعني الشاخصة&nbsp;<img src=\"images/972eee51-5fe3-4521-b94b-6cb3795aadca.jpg\">",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nمكان وقوف مركبة معاق بالأرجل.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمكان وقوف مركبة معاق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nموقف لكرسي العجزة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) ماذا ينهي مفعول الشاخصة&nbsp;<img src=\"images/62725e3a-c3b9-47c9-9845-c0f15f3e3d47.jpg\">&nbsp;",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nالشاخصة&nbsp;<img src=\"images/5332f5f0-70a8-4c69-97da-d51d032f918e.jpg\">&nbsp;أو المفترق القريب.",
+                    "images": [
+                        {
+                            "path": "images/5332f5f0-70a8-4c69-97da-d51d032f918e.jpg",
+                            "id": "5332f5f0-70a8-4c69-97da-d51d032f918e"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالشاخصة&nbsp;<img src=\"images/c7a3f74b-e935-42f3-a496-71f1e4414791.jpg\">&nbsp;فقط.",
+                    "images": [
+                        {
+                            "path": "images/c7a3f74b-e935-42f3-a496-71f1e4414791.jpg",
+                            "id": "c7a3f74b-e935-42f3-a496-71f1e4414791"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمفترق القريب فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات غير صحيحة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) الشاخصة&nbsp;<img src=\"images/d2b09a62-ea94-47bc-b572-69dc4823144c.jpg\">تعني:",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nانتبه أنت تسير على جسر ضيق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nانتبه الطريق تضيق أمامك بعد حوالي 150م.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nانتبه أنت تسير في طريق ضيقة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nانتبه جسر ضيق أمامك بعد حوالي 150م.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "15 ) شاخصة على شكل مثلث تكون عادةً:",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nشاخصة إرشاد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nشاخصة حق أولوية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nشاخصة تحديد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nشاخصة تحذير.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "16 ) الشاخصة&nbsp;<img src=\"images/b37fcae7-63a0-4749-a43d-6be992d6226c.jpg\">معناها :",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nنهاية المقطع الممنوع فيه التجاوز .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز فقط تجاوز مركبة تسير على أكثر من عجلتين .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز تجاوز مركبة تسير على عجلتين فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع تجاوز مركبة ميكانيكية تسير على أكثر من عجلتين .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) في اتجاه سيرك مسلكان ، في ايهما تسير ؟",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nيجوز استعمال المسلك الايسر اذا كانت الطريق ذات اتجاه واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي المسلك الايمن ما عدا حالة التجاوز",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز استعمال المسلك الايسر للمركبة السريعة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) في طريق ذات اتجاه واحد وفيها أكثر من مسلكين",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nتستطيع استعمال المسلك الأيسر للاستدارة إلى اليمين فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب السير في المسلك الأيمن واستعمال الأيسر عند التجاوز أو الأيسر الأقصى عند الاستدارة إلى اليسار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتستطيع استعمال المسلك الأيسر إذا كانت الطريق خالية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتستطيع استعمال المسلك الذي على يسار المسلك الأيمن الأقصى لتجاوز مركبة متجاوزة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) من هو عابر الطريق في نظر قانون المرور ؟",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nمن يعبر الطريق من جهة الى اخرى",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمركبات والمشاة والحيوانات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالماشي في الطريق فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكل من يستعمل الطريق للسفر أو المشي أو الوقوف",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "20 ) كيف تنفذ الاستدارة إلى اليسار إلى طريق ذات اتجاه واحد؟",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nإلى المسلك الأيمن في اتجاه السير.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nإلى اقرب ما يكون إلى وسط الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإلى الجانب الأيسر من الطريق في كل حالة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nبقوس عريض إلى الجانب الأيمن من الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) ما هو السبيل ؟",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nطريق او قسم من طريق مخصص للمركبات التي تسير على عجلتين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمسلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nطريق او قسم من طريق معد للمشاة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nطريق او قسم من الطريق خلاف الشارع خصص لنوع معين من عابري الطرق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) المركبة التجارية هي",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nالمركبة التي يقل وزنها عن 15 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمركبة التي لها مدار خلفي واحد فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمركبة التي لا يزيد وزنها عن 4000 كغم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمركبة المستعملة او المعدة للاستعمال في نقل البضائع",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "23 ) في طريق ذات اتجاهين وفيها 3 مسالك او 5 مسالك متى تستعمل المركزي",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nيسمح لك السفر في المسلك المركزي متى رغبت",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعندما تنوي التجاوز وتكون الطريق التي امامك خالية وعند الاستدارة الى اليسار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفي الوقت الذي تريد فيها اجتياز مركبة امن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي الوقت الذي ترغب فيه في السفر بسرعة اكبر من السرعة القصوى",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) تهيأت للاجتياز وفجأة شاهدت في المرآة مركبة تسير بسرعة وبدأت اجتيازك",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nتستمر بالاجتياز وتؤشر بيدك للسائق الذي خلفك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتستمر بالاجتياز اذ انك ستجتاز قبل المركبة السريعة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاستمر بسرعتك العادية واعط المركبة حق الاجتياز",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتستمر بالاجتياز لان لك حق الاولوية للاجتياز",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) هل يجوز ان تقام الشاخصة&nbsp;<img src=\"images/b77bec20-1391-4778-ae41-66055f1b28d2.jpg\">&nbsp;في طريق خارج المدن؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nنعم يجوز",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز ان تقام للمركبات التجارية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا لا يجوز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<div>\n يجوز ان تقام للمركبات العمومية فقط\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) ما أهمية سائل عادم الديزل (AdBlue) في مركبات الديزل؟",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nيساعد في عملية احتراق الوقود.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nليس له أية أهمية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيقلل من خروج الغازات السامة من ماسورة العادم.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيزيد من قدرة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) كيف تعرف أن سائل العادم الديزل (AdBlue) قد نفذ؟",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nمن خلال ارتفاع حرارة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمن خلال إشارة خاصة في لوحة البيانات (التابلو) خاصة بذلك.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمن خلال انخفاض ضغط زيت المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن خلال انخفاض مستوى وقود المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) عند نفاذ سائل عادم الديزل (AdBlue) في المركبة يمكن أن؟",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nتقل قدرة محرك المركبة أو يتوقف عن العمل (حسب المنتج).",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يحدث شيء ويبقى المحرك يعمل بشكل عادي.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nترتفع حرارة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتزداد قدرة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) كيف نؤمن مركبة واقفة مجهزة بصندوق غيارات أوتوماتيكية؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nننقل عصا الغيارات إلى الغيار الأول (1) ونستعمل فرامل الوقوف ( هاند بريك)",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nننقل عصا الغيارات إلى غيار الرجوع إلى الخلف (R) ونستعمل فرامل الوقوف ( هاند بريك)",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nننقل عصا الغيارات إلى غيار النيوترال (N) ونستعمل فرامل الوقوف (هاند بريك)",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nننقل عصا الغيارات إلى غيار الوقوف (P) ونستعمل فرامل الوقوف (هاندبريك)",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "30 ) ما هو الفرق بين الطريق والسبيل؟",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nالطريق معد لاستعمال المركبات الالية والسبيل معد للدراجات الهوائية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالطريق معد لاستعمال جميع انواع عابري الطرق اما السبيل فهو مخصص لنوع معين من عابري الطرق\n<div>\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالطريق معد لاستعمال المركبات الالية والسبيل معد للمشاة فقط\n<div>\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالطريق معد للمركبات الالية والسبيل للمركبات التي تسير على عجلتين فقط\n<div>\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fbooks\u002F[type]","\u002Fquiz\u002F[type]","\u002Fquiz\u002F[type]\u002F[form]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

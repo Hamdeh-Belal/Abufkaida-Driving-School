@@ -1,0 +1,805 @@
+{
+    "formNum": 27,
+    "questions": [
+        {
+            "text": "1 ) ماذا ينهي الشاخصة&nbsp;<img src=\"images/2ddd6a9a-6552-4f24-919d-1a0e8b8c64cb.jpg\">&nbsp;؟",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nالشاخصة&nbsp;<img src=\"images/5117fae1-03e2-4c04-9307-a7a22760b0be.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/5117fae1-03e2-4c04-9307-a7a22760b0be.jpg",
+                            "id": "5117fae1-03e2-4c04-9307-a7a22760b0be"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالشاخصة&nbsp;<img src=\"images/1dcd8b38-a6c5-45b9-90cb-e00143fb7857.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/1dcd8b38-a6c5-45b9-90cb-e00143fb7857.jpg",
+                            "id": "1dcd8b38-a6c5-45b9-90cb-e00143fb7857"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالشاخصة &nbsp;<img src=\"images/c82319e9-63d7-445a-a178-a55db323b64b.jpg\" class=\"\" style=\"margin: 0px; resize: none; position: relative; zoom: 1; display: block; height: 69px; width: 82px; top: 0px; left: 0px;\">&nbsp;فقط.",
+                    "images": [
+                        {
+                            "path": "images/c82319e9-63d7-445a-a178-a55db323b64b.jpg",
+                            "id": "c82319e9-63d7-445a-a178-a55db323b64b"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمفترق القريب أو الشاخصة&nbsp;&nbsp;<img src=\"images/ae258f4f-22fc-456c-a7e5-a4e44e7bc16c.jpg\" class=\"\" style=\"margin: 0px; resize: none; position: relative; zoom: 1; display: block; height: 69px; width: 82px; top: 0px; left: 0px;\">&nbsp;&nbsp;إذا لم يكن هناك مفترق في المقطع الذي يُمنع فيه التجاوز.\n<div>\n <br>\n</div>",
+                    "images": [
+                        {
+                            "path": "images/ae258f4f-22fc-456c-a7e5-a4e44e7bc16c.jpg",
+                            "id": "ae258f4f-22fc-456c-a7e5-a4e44e7bc16c"
+                        }
+                    ],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "2 ) إذا أُقيمت الشاخصة<img src=\"images/c4b245f1-1bb8-467f-ad1e-a7c5f4b15427.jpg\">على يسار الطريق :",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك إذا كنت تريد الاستدارة إلى اليسار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك إذا كنت تريد الاستدارة إلى اليسار أو الاستدارة إلى اليسار للسير في الاتجاه المعاكس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "3 ) هل يجوز لسائق سوق مركبة تحت تأثير عقاقير مهدئة ؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nيجوز بأمر من الطبيب المعالج فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز اذا مضت مدة ساعة على اخذ هذه العقاقير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم ، فالعقاقير المهدئة ليس لها علاقة بسواقة مركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكلا",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "4 ) تجوز الاشارة بواسطة اليد",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nعند اصابة جهاز اعطاء الاشارة بخلل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاضافة الى جهاز اعطاء الاشارة اذا ارتأى السائق ان ظروف الحال تبرر ذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي المركبات المعفاة من واجب تركيب جهاز اعطاء الاشارة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "5 ) من بحوزته رخصة سواقة مركبة خصوصية كتب فيها وجوب استعماله النظارات",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nعليه استعمال النظارات فقط اذا كان مدى الرؤية في الطريق غير واضح",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعليه استعمال النظارات حين السواقة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nعليه استعمال النظارات اثناء السواقة في الليل فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعليه ان يحمل معه نظارات اضافية حين السواقة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) ما هو تعريف الحيوانات في انظمة المرور ؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nكل انواع الحيوانات والطيور التي يمنع نقلها في المركبة العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالدواب والحيوانات الأليفة باستثناء الكلاب والقطط والطيور الداجنة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالماعز والخرفان فقط والتي تستعمل الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالدواب الخطرة والتي تقاد بواسطة لجام",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) ما هي واجبات سائقي المركبات تجاه مركبة امن؟",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nتحويل مركباتهم إلى يمين الطريق والتمهل وإعطاء مركبة الأمن حق الأولوية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتحويل مركباتهم إلى يمين الطريق والوقوف هناك وإعطاء مركبة الأمن حق الأولوية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتخفيف سرعة مركباتهم لكي يسمحوا لمركبة الأمن بالمرور",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nزيادة سرعة مركباتهم لكي لا يعرقلوا حركة مركبة الأمن",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) هل يُسمح بالوقوف على حاشية الطريق (طرف الطريق) في طريق ليست بلدية؟",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nممنوع وقوف مركبة على حاشية الطريق لأنها معدة للمشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمسموح لأجل اصعاد أو إنزال الركاب ما عدا الطريق السريعة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيُسمح فقط للمركبات العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح لأن حاشية الطريق معدة لوقوف المركبات بدون أي قيد أو شرط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) مسموح ان تخترق خط متقطع",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كان على يمين الخط المتقطع خط متواصل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفقط اذا متطلبات السير تستوجب ذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفقط في طريق ذات اتجاه واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط اذا كان على يسار الخط المتقطع خط متواصل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) عند تجاوز مركبة متوقفة في طريق ذات اتجاهين",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nنبقى في مسلك التجاوز وقت اقل فقط إذا قدمت مركبة من الأمام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nوقت البقاء في مسلك التجاوز متشابه في جميع أنواع الطرق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنبقى في مسلك التجاوز وقت أكثر منه في طريق ذات اتجاه واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nنبقى في مسلك التجاوز &nbsp;اقل وقت ممكن",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "11 ) هل يجوز ان تبرز الحمولة عبر جوانب المركبة؟",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nيجوز اذا لم تكن للمركبة جوانب",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز الى حد متر واحد من كل جانب",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز ان تبرز الحمولة عبر جوانب المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\n&nbsp;يجوز ان تبرز الحمولة بشرط ان لا يزيد العرض الاجمالي عن 2.5 م",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) عليك اخذ المركبة الى كراج خاص لفحص توازن العجلات",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nعندما تشعر بان فرامل الاستعمال لا توقف المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعندما تشعر بتاكل سريع للاطارات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nعندما تشعر ان الفرامل المساعدة ترجع بسهولة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعندما تشعر بنقص في قدرة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) عند إيقاف المركبة في طريق صاعدة بدون رصيف عليك",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nسحب فرامل اليد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع ما ذكر صحيح",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nوضع الغيار الأول",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتوجيه العجلات الأمامية نحو حافة الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) يستعمل المسلك المركزي في طريق ذات اتجاهين وفيها ثلاثة مسالك",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nللمركبات الخصوصية والتاكسي فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلغرض الاستدارة الى اليمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلغرض التجاوز او الاستدارة الى اليسار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nممنوع استعمال مثل هذا المسلك",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) ما هو تعريف ملتقى طرق؟",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nمكان اندماج طريق بطريق اخر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمكان التقاء طريقين او اكثر بما في ذلك ملتقى سكة حديد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمكان التقاء طريقين او اكثر ما عدا الاندماجات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمكان التقاء طريقين او اكثر بما في ذلك الاندماجات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) درجة حرارة الماء داخل المحرك يجب ان تكون",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nمنخفضة لمنع تمدد اجزاء المحرك واهترائها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبين 70 و 90 درجة مئوية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا توجد اهمية لدرجة حرارة الماء طالما ان درجة الحرارة لا تسبب غليان الماء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبين 40 و 60 درجة مئوية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) وظيفة طفاية المحرك:",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nالتقليل من سرعة دوران المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمحافظةعلى استمرارية عمل الفرامل وخصوصا عند النزول الحاد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالإغلاق الجزئي على مخرج الغازات العادمة الخارجة إلى أنبوب العادم (الأكزوست).",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "18 ) سيارة مجهزة بمحرك الديزل,هل يجب ان تقفل مضخة البخ بواسطة سدادة",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nنعم, واجب قفل مضخة البخ بسدادة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنعم, ما عدا التراكتور وسيارات الصحة العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا, فقط السيارات العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا, لا حاجة لاقفال مضخة البخ بسدادة خلال 2000 ساعة عمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) لماذا يجب ان يكون فراغ في دواسة الكلاتش&nbsp;",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nلنقل الغيارات بسرعة اكبر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يجب ان يكون فراغ في دواسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللتقليل من استهلاك قطع الكلاتش",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلتسهيل عملية الدوس على دواسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) عندما تكون براغي طوق العجل جنطة العجل رخوات",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nممنوع السير حتى نشد ونقوي البراغي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمسموح الاستمرار في السير ولكن ممنوع الجر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح الاستمرار في السير الى اقرب كراج\n<br>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح الاستمرار في السير فقط اذا كانت فرامل التراكتور صالحة\n<br>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) عندما تظهر إشارة تفقد المحرك (check engine) على شاشة المركبة ماذا يعني ذلك ؟",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nتعني وجود خلل في قابض (كلاتش) المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتعني وجود خلل داخل محول عزم المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتعني وجود خلل داخل صندوق الغيارات.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتعني وجود خلل داخل المحرك.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) ما هي فرامل الخدمة (فرامل القدم)؟",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nجهاز فرامل يعمل على جميع عجلات المركبة ويمكن من تخفيف سرعة المركبة أو توقفها في جميع أوضاع الطريق.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nجهاز فرامل يعمل في حالة الخطر فقط ويفرمل المركبة لغاية توقفها النهائي.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجهاز فرامل يخفف من سرعة المركبة في المنحدرات الشديدة جدا , ولكنه لا يستعمل للتوقف.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجهاز فرملة مساعدة (هاندبريك) يعمل فقط على العجلات المثبتة على المحور الخلفي فقط, من أجل منع حادث.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) يجوز إيقاف المركبة في الجهة اليسرى من الطريق",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي طريق ذات اتجاه واحد أقيمت على مدخلها شاخصة تدل على انها طريق ذات اتجاه واحد",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفي طريق ذات اتجاه واحد مقسمة بواسطة مساحة فاصلة على امتدادها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط إذا كان عرض الطريق يزيد عن 12م",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) يوضع مثلث التحذير خلف المركبة في الحالات التالية",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nعند وقوف المركبة في ساعات الليل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعند إصابة المركبة بخلل والتوقف لتنفيذ أي تصليح فيها",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nعند كل توقف للمركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعند توقف المركبة في منعطفات فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) متى يجب وضع مثلث التحذير ؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nعندما تتعطل المركبة في ساعات النهار فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي كل حالة تتوقف فيها المركبة عند إصابتها بخلل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفقط في حالة حدوث خلل في المركبة وتركها بدون مراقبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط عند إصابة المركبة بخلل في طريق داخل المدن",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) في طريق فيها اكثر من مسلكين",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nيجب السير في المسلك الايمن ما عدا حالة التجاوز",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجب السير في المسلك الايمن الا اذا كانت الطريق خارج المدن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز السير في المسلك الايسر للمركبات الخصوصية والمسلك الايمن للشاحنات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب السير في المسلك الايمن عند الاستدارة الى اليمين فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) يجب ان يكون ضغط الهواء في الاطارات",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nحسب مساحة لمس الاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nحسب عرض الاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nحسب تعليملت القانون",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحسب تعليمات المنتج",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "28 ) اية اجراءات امان يتخذها سائق مركبة تحمل وقود ؟",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nفحص خاص من قبل سلطة الترخيص و شركة الوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nترخيص خاص من الشرطة وشهادة تأمين خاصة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسلسلة تأريض لافتات ومطفأة حريق&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمركبة مرافقة ترفع علم تسير امام المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) كيف يتكون ضغط الهواء اللازم لجهاز الفرامل الهوائية؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nبواسطة ضاغطة (كمبرسور)",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nبواسطة (الترموستات) جهاز تنظيم الحرارة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبواسطة جهاز الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبواسطة جهاز الامتصاص",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) سائق سيارة الذي يتوقف عند اشارة قف قبل ملتقى سكة حديد عليه",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nايقاف عمل الراديو, ان يفتح الشباك, وان يطفئ ... وينظر لطول سكة الحديد",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nايقاف عمل المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nان يستعمل الغيار النيوترول",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

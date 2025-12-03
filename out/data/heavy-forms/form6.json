@@ -1,0 +1,805 @@
+{
+    "formNum": 5,
+    "questions": [
+        {
+            "text": "1 ) الشاخصة التي تعني مكان لتوقف نوع معين من المركبات على شكل خليج ، هي:",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\n<img src=\"images/85e1be44-18e5-4e8b-9e4b-5bd999e6f970.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/85e1be44-18e5-4e8b-9e4b-5bd999e6f970.jpg",
+                            "id": "85e1be44-18e5-4e8b-9e4b-5bd999e6f970"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\n<img src=\"images/01a7297d-2e58-4c31-adfa-8615b87c3624.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/01a7297d-2e58-4c31-adfa-8615b87c3624.jpg",
+                            "id": "01a7297d-2e58-4c31-adfa-8615b87c3624"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<img src=\"images/89db6d39-bf34-4ae3-a5de-fea1a37ae3d0.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/89db6d39-bf34-4ae3-a5de-fea1a37ae3d0.jpg",
+                            "id": "89db6d39-bf34-4ae3-a5de-fea1a37ae3d0"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<img src=\"images/bdb7afdc-b4d1-43f7-94ea-fcab66ac748b.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/bdb7afdc-b4d1-43f7-94ea-fcab66ac748b.jpg",
+                            "id": "bdb7afdc-b4d1-43f7-94ea-fcab66ac748b"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) هل يجوز لفاحص يحمل هوية فاحص من سلطة الترخيص فحص مركبة وانزالها عن الطريق ؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nيجوز فقط لضابط شرطة برتبة ملازم اول وما فوق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز للفاحص عمل ذلك اذا ابرز امرا من سلطة الترخيص الرئيسية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكلا",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) هل يجوز أن نصعد على الرصيف ونسير عليه لاجتياز عائق على الطريق",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nيمكن الصعود على الرصيف بالعجلات اليمنى فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيمكن اجتياز العائق فقط بالصعود على الرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع الصعود على الرصيف لاجتياز العائق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيمكن الصعود على الرصيف بحذر شديد وبالغيار الاول",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) ما هو الفرق بين الشاخصة&nbsp;<img src=\"images/559d3b11-9054-4e98-a3dc-86dfce55ad18.jpg\">والشاخصة&nbsp;<img src=\"images/07aacb51-c0d3-4219-bf1f-97cda1550ae6.jpg\">؟",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nالأولى تعني سبيل للدراجات فقط والثانية تمنع دخول الدراجات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالأولى تمنع دخول الدراجات النارية والثانية تسمح بدخولها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالأولى تمنع دخول الدراجات الهوائية والثانية تعني سبيل للدراجات الهوائية فقط",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلا يوجد فرق بين الإشارتين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) وقت الإنارة في نظر القانون هو",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nالليل وكل وقت آخر تكون فيه الرؤية مشوشة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفترة الوقت التي تبدأ قبل ربع ساعة من غروب الشمس وتنتهي قبل ربع ساعة من شروقها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفترة الوقت التي تبدأ بعد ربع ساعة من غروب الشمس وتنتهي بعد ساعة من شروقها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالفترة الواقعة بين 1/11 من كل عام لغاية 31/3 من العام الذي يليه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) <span style=\"font-size: 13px;\">لا يجوز ان يزيد الطول الاجمالي لمركبة شاحنة ذات مدارين</span>",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nعن 12,5 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعن 10 &nbsp; امتار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعن 12 متر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nعن 11 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) متى تشترط سلطة الترخيص تجديد رخصة سائق جديد باجتياز امتحانات تقررها ؟",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاذا سحبت المحكمة رخصته لمدة شهر واحد او اكثر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاذا سحب ضابط الشرطة رخصته لمدة 60 يوما",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاذا ساق مركبة ميكانيكية بدون رخصة سوق سارية المفعول لنفس نوع المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) في مفترق طرق حق الأولوية للمركبة القادمة من اليمين",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nفقط عند وجود شاخصة قف في المفترق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعند وجود آلة ضوئية في المفترق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعند عدم وجود شاخصات تدل على غير ذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفي جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) يستعمل السائق فرامل اليد",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nعند إيقاف المركبة في طريق مائلة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلمنع استمرار تزحلق المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلتأمين عدم تحرك المركبة أثناء وقوفها أو لإيقافها عند الطوارئ",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلمنع استمرار تغريز المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) قبل الدخول الى منعطف وأثناء السير فيه",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nيجب زيادة السرعة لنؤمن انعطاف سهل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب أن نسير في وسط الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب زيادة السرعة عند الدخول الى المنعطف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب ان نسير بسرعة بطيئة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "11 ) تُركب في المركبة الميكانيكية لمبة تحذير أمام مقعد السائق تضيء، عندما يضاء نور الطريق، بلون",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nازرق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاخضر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاحمر",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما هي المسافة التي تحافظ عليها بينك وبين المركبة التي تسير امامك في طريق داخل المدن ؟",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nمسافة تكفي لايقاف المركبة في اي وقت لمنع وقوع حادث",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمسافة الوقوف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسافة الفرملة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسافة تكفي لدخول مركبة فيها",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) عندما تريد اجتياز دراجة نارية",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nمسموح الاجتياز فقط اذا كان هناك ثلاثه مسالك باتجاة السير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمسموح الاجتياز فقط اذا كان هناك مسلكين باتجاة السير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح الاجتياز فقط في طريق ليست بلدية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح الاجتياز فقط عندما تكون الطريق خالية",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "14 ) في مفترق طرق يجب اعطاء الأولوية للمركبة القادمة من اليمين",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كانت اشارة السير /\"أعط حق الأولوية/\" في مسلك سيرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفقط اذا المركبة القادمة من اليمين هي مركبة أمن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا كانت اشارة قف على المسلك الذي تسير فيه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي جميع الحالات عند عدم وجود اشارة سير تلزم بإعطاء حق الأولوية",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "15 ) طريق بدون مخرج معد لسكان الشارع",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nيعد طريق فقط بالنسبة للساكنين فيه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يعد طريق حسب القانون لذلك ممنوع استعماله",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالقانون يطبق فقط على سائقي المركبات بداخله",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحسب القانون يعد طريق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "16 ) ما هو السبب لغليان الماء داخل الرادياتور ولعدم تعبئة الدينامو للبطارية ؟",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nقشاط (حزام) المروحة رخو او ممزق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنقص في مياه المبرد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنقص في زيت المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمحرك لا يعمل في صورة جيدة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) عندما تكون براغي الجنط رخوة",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nممنوع السير حتى تشد البراغي وتقوى",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز متابعة السير اذا كان التراكتور يسير على طريق معبدة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب شد البراغي في اقرب محطة وقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز متابعة السير الى اقرب كراج",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) اذا كانت كمية زيت (سائل) الفرامل ناقصة:",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nهذا دليل على ان هناك نقص زيت في الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفرامل اليد لا تعمل بصورة جيدة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفرامل الرجل لا تعمل بصورة جيدة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهذا دليل على ان هناك تسرب زيت في الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) كيف يشغل الهواء صندلة الفرامل في جهاز الفرامل الهوائية؟",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nيشغل الهواء اسطوانة صندلة فرامل المركبة على صحن الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبواسطة ضغط الهواء الذي يشغل حجاب حاجز وهذا الحجاب يشغل الة ميكانيكية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيضغط الهواء الزيت الموجود داخل الجهاز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيدخل الهواء الى العجلات ويشغل طبلة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) توازن عجلات غير صحيح يسبب",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nفقدان سريع لضغط الهواء في الاطارات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتاكل سريع في الاطارات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nارتفاع سريع في حرارة العجلات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتاكل سريع في محور المقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) كيف نلاحظ ان حزام المروحة قد انقطع",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nعندما يتوقف المحرك عن العمل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعندما تسمع صوتا غريبا من المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعند فتح غطاء المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعندما تضيء ساعة الامبير وترتفع درجة حرارة الماء في المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) إذا أشار قضيب مقياس الزيت إلى كمية زيت أعلى من مستوى الإشارة العليا فهذا يعني",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nتسرب بنزين أو وقود إلى الزيت",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتسرب وقود أو زيت إلى الماء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتسرب ماء أو وقود إلى الزيت",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتسرب ماء أو زيت إلى الوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) ماذا يسبب استعمال الغيارات بدون الضغط على دعسة الكلاتش في مركبة غير اوتوماتيكية ؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nاحتمال كسر التروس المسننة في جهاز الغيار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاحتمال حدوث ضرر للمحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاحتمال حدوث ضرر للمحور الخلفي (الباككس) في المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) من أسباب نقصان مياه التبريد باستمرار من المحرك :",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nارتفاع درجة حرارة الماء في المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتشقق في خراطيم مياه التبريد.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nإبطاء في عمل مضخة مياه التبريد .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nخلل في عمل تيرموستات الحرارة .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) ما هو \"الليل\"؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nفترة الوقت التي تبدأ بعد ربع ساعة من غروب الشمس إلى ما قبل ربع ساعة من شروقها.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفترة الوقت بين غروب الشمس وبين شروقها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفترة الوقت التي يجب فيها إضاءة مصابيح الوقوف.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفترة الوقت التي يكون فيها ضباب كثيف.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) واجب التمهل معناه",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nتخفيف سرعة المركبة حتى امكانية ايقافها لمنع أي خطر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتخفيف السرعة اقل ب 20 كم في الساعة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتخفيف السرعة الى سرعة معقولة ، بدون حاجة للتوقف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتخفيف السرعة اقل ب 10 كم في الساعة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) يجوز اجتياز مركبة مجتازة",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nلكل مركبة اذا كان في الطريق مسلكان او كثر في نفس الاتجاه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلمركبة تجارية لا يزيد وزنها الاجمالي عن 4 طن وفي طريق فيها اكثر من مسلكين في نفس الاتجاه",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلمركبة لا يزيد وزنها الاجمالي عن 4 طن وفي طريق فيها مسلكان او اكثر في نفس الاتجاه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n\"فقط للمركبات الخصوصية والتاكسي العمومي وفي طريق فيها مسلكان او اكثر في نفس الاتجاه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) هل يجوز اصلاح مركبة في الطريق او في مكان وقوف عمومي ؟",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nيجوز اذا كان التصليح بسيطا وليس مقابل ورشة للتصليح",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز لميكانيكي مركبات فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز لاصلاح البنشر فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يجوز اصلاح مركبة في الطريق او في مكان وقوف عام",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) ما هي الطريق السريعة؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\n\"طريق ليست بلدية والمخصصة للمركبات الآلية فقط وعلى مدخلها اقيمت اشارة تدل على ذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nطريق لا يجوز لمركبات تعليم السواقة الدخول فيها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nطريق لا يجوز لجميع الدراجات النارية الدخول فيها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) كيف نفحص فيما اذا كان هناك زيت كافٍ في الكارتير (حوض الزيت في المحرك) ؟",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nبواسطة ادخال سيخ القياس الخاص الى حوض الزيت",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفي الكراج الذي يقوم بصيانة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي محطة تشحيم وغسيل المركبات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبالعين المجردة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

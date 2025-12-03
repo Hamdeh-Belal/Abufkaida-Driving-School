@@ -1,0 +1,805 @@
+{
+    "formNum": 17,
+    "questions": [
+        {
+            "text": "1 ) المسافة بين شاخصة تحذير والشيء التي تحذر منه تكون عادةً:",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\n170م.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n150م.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\n100م.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n250م.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) ماذا يسبب رمل على سطح الطريق ؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nلا يوجد اي تأثير على المركبة عند وجود رمل على سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاحتكاك قليل بين الاطارات وسطح الطريق وبالتالي تزحلق المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيخفف من تزحلق المركبة على الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيسبب في زيادة الاحتكاك بين الاطارات وسطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) الشاخصة<img src=\"images/b15492d6-6f2e-47e8-8f2f-1a06fb242986.jpg\">تعني:",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nأمامك حركة سير دائرية على بعد 50 إلى 100م.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nأنت تسير في حركة سير دائرية تعيدك إلى نفس الطريق التي أتيت منها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأنت تسير في حركة سير دائرية لك فيها حق الأولوية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأنت تسير في حركة سير دائرية وحق الأولوية للمركبة القادمة من اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) ما هي الشاخصة التي تلزمك بإعطاء حق الأولوية في المفترق",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nالشاخصة<img src=\"images/2414853a-5c3d-410a-b3d9-bdf2c90ad860.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/2414853a-5c3d-410a-b3d9-bdf2c90ad860.jpg",
+                            "id": "2414853a-5c3d-410a-b3d9-bdf2c90ad860"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالشاخصة<img src=\"images/896783db-0ae0-4d4c-9aa1-1f23850914e2.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/896783db-0ae0-4d4c-9aa1-1f23850914e2.jpg",
+                            "id": "896783db-0ae0-4d4c-9aa1-1f23850914e2"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالشاخصة<img src=\"images/f2b1fc50-f040-40d0-8b0c-778f909cf2d9.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/f2b1fc50-f040-40d0-8b0c-778f909cf2d9.jpg",
+                            "id": "f2b1fc50-f040-40d0-8b0c-778f909cf2d9"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالشاخصة&nbsp;<img src=\"images/9db1de8c-e827-4a03-80d7-e756b2433ff6.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/9db1de8c-e827-4a03-80d7-e756b2433ff6.jpg",
+                            "id": "9db1de8c-e827-4a03-80d7-e756b2433ff6"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) عندما تصور الشرطة مركبة ارتكبت مخالفة سير من المسؤول بنظر القانون",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nصاحب المركبة ، الا اذا اثبت أن المركبه كان يسوقها انسان اخر&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالسائق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالسائق الذي صور وممكن تشخيصه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا اهمية للامر المهم دفع الغرامه&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) من بحوزته رخصة سواقة درجة 2 (B)يستطيع ان يسوق",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\n&nbsp;مركبة تجارية لغاية وزن اجمالي 2200 كغم فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمركبة خصوصية ومركبة تجارية لا يزيد وزنها الاجمالي عن 4 طن",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nدراجة نارية ومركبة خصوصية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتراكتور ومركبة خصوصية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) عندما تكون المركبة واقفة في الجهة اليمنى وقريبة من حافة الشارع ويريد سائقها البدء بالسفر",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nعلى سائق أية مركبة يريد البدء بالسفر إعطاء الإشارة حتى وان لم يكن في نيته الانحراف عن المسلك&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيترتب على سائق الباص فقط إعطاء الإشارة بعد وقوفه في المحطة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nواجب إعطاء الإشارة مفروض فقط على كل سائق مركبة يريد الانعطاف يمنةً أو يسرة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يترتب على سائقها إعطاء الإشارة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) لكي نتمنع من الصعوبات عند السير في طريق وعرة يجب",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nان نتمهل بالسير",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nان نسير بالغيار الاول لكي نستطيع الوقوف في اية لحظة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nان نضع رجلنا على دعسة الفرامل للاستعداد لكل طارىء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nان نزيد السرعة لنتجنب الرجات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) ما هي وظيفة جهاز الغيارات ؟",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nزيادة سرعة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nملاءمة سرعة دوران العجلات مع سرعة دوران الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nوصل وفصل الكلاتش عن المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nملاءمة سرعة دوران المحرك مع سرعة دوران العجلات",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "10 ) لا يجوز الوقوف والتوقف",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nفي حدود 15م قبل وبعد محطة الباص ومن جانبي الطريق إلا إذا بلغ عرض الطريق 12م أو أكثر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي حدود محطة باص",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفي حدود 12م قبل وبعد محطة باص",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي حدود 12م قبل وبعد الشاخصة التي تشير إلى محطة باص",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) لا يجوز الاقتراب أكثر من اللازم من المركبة التي تسير أمامك",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nربما يتوقف السائق الذي أمامك بصورة فجائية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط اذا المركبة التي أمامك تزيد حمولتها عن 4 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا المركبة التي أمامك تزيد سرعتها عن 80 كم /س",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط عند السير ليلا",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) في طريق بلدية حيث لا توجد اشارة لتحديد السرعة ، السرعة المسموحة لمركبة خصوصية",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\n40 كم / ساعة في طريق جانبية ولا تزيد عن 60 كم / ساعة في طريق رئيسية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n50 كم / س واضافة 10 كم /ساعة على كل مسلك اضافي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n60 كم / ساعة في طريق اتجاه واحد فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n50 كم / ساعة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) امامك توقفت مركبة داخل مفترق غير مجهز باشارة ضوئية ومليء بحركة السير",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nيمكن الاجتياز اذا كانت هناك اشاره تشير الى نهاية منع التجاوز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالاجتياز ممنوع بتاتا",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيمكن الاجتياز فقط في طريق غير بلدية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيمكن الاجتياز اذا كان هناك اكثر من مسلك في الملتقى",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) ماذا يركب في محرك الديزل بدلا من (الديسبراتور) موزع الشرارات؟",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nالبخاخات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمضخة السرعة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمضخة البخ",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمضخة الوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) كيف يحدث الانفجار داخل غرفة الاحتراق في محرك الديزل؟",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nبواسطة عملية الامتصاص",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبواسطة الشرارة الكهربائية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبواسطة ضغط الزيت العالي في غرفة الاحتراق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبواسطة بخ الوقود بضغط عال في غرفة الاحتراق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "16 ) لماذا يجب ان يكون ضغط الهواء في الاطارات حسب اوامر المنتج؟",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nللمحافظة على ثبات المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلمنع استهلاك زائد للاطارات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلتسهيل عملية المقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) جهاز تغير الاضواء الرئيسية يمكن السائق من&nbsp;",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nتغير الضوء العالي الى الضوء الواطئ او بالعكس",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتغير مصباح ضوء لافتات ارقام المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتحسين مدى الرؤية في حال الضباب",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتغير مصباح في الضوء الامامي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) ما هي وظيفة فلتر الهواء في المحرك؟\n<br>",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nنعومة صوت المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتنقية الهواء الداخل الى المحرك من الغبار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<span style=\"color: rgb(34, 34, 34); font-family: Consolas, \" lucida console_, _courier new_, monospace; font-size: 12px; text-align: left; white-space: pre-wrap;_>منع حدوث الباك فاير (Back Fire)</span>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<span style=\"color: rgb(34, 34, 34); font-family: Consolas, \" lucida console_, _courier new_, monospace; font-size: 12px; text-align: left; white-space: pre-wrap;_>جميع الإجابات صحيحة</span>\n<br>",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "19 ) اي جملة صحيحة من الجمل الاتية",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nجميع المركبات ذات محرك البنزين جهاز تبريد بالماء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع المركبات ذات تبريد بالماء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nهناك مركبات ذات تبريد بالماء واخرى بالسولر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nهناك مركبات ذات تبريد بالماء واخرى بالهواء",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "20 ) ماذا ينهي مفعول الشاخصة&nbsp;<img src=\"images/c0845594-2497-4582-ab0a-ecaa9ad6a236.jpg\">",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nالالة الضوئية القريبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمفترق القريب",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتنفيذ احكام الشاخصة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) الخليط من الوقود والهواء الضروري لتشغيل المحرك يتكون",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nفي الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي الرادياتر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي المولد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي الكاربوريتر",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) عند نفاذ سائل عادم الديزل (AdBlue) في المركبة يمكن أن؟",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nتقل قدرة محرك المركبة أو يتوقف عن العمل (حسب المنتج).",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يحدث شيء ويبقى المحرك يعمل بشكل عادي.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nترتفع حرارة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتزداد قدرة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) ماذا يحدث عندما تتراكم االأوساخ والصدأ داخل مواسير مشع الحرارة (الروديتر)؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nترتفع حرارة المحرك.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيزداد الضغط على مضخة مياه التبريد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتنخفض حرارة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيرتخي قشاط مروحة التبريد.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) كيف يتصرف السائق عندما يطول زمن ملء خزانات جهاز الفرامل بالهواء؟",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nيخفض سرعة دوران المحرك وبهذا يزيد من نجاعة عمل الضاغطة (الكومبرسور).",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nينتظر كلما تطلب الأمر ذلك لغاية امتلاء الخزانات , ويتجاهل المشكلة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيتوجه إلى كراج مرخص لإصلاح الخلل,بعد أن امتلأت الخزانات , بالسير البطيء وبحذر .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيفحص فلتر الوقود في الجهاز ويقوم بتنظيفهإذا اقتضت الضرورة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) ما هو \"ممر المشاة\"؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nقسم من الرصيف ووسم بأنه معد لعبور المشاة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nقسم من حاشية الطريق ووسم بأنه معد لعبور المشاة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nقسم من الشارع مؤشر ومعد لعبور المشاة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nقسم من الطريق معد لعبور المشاة بما في ذلك الرصيف.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) عندما تضيء لامبة الفرامل المساعدة (الهاندبريك) في لوحة الساعات أثناء السير فهذا يعني:",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nأن الفرامل المساعدة لا تعمل (الهاندبريك نازل) ويجب تفعيلها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأن الفرامل المساعدة (الهاندبريك) (مرفوع) ويجب تحريرها، لأنها تفرمل المركبة فعلا.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nأن الفرامل المساعدة (الهاندبريك) سليمة واللامبة فيها خلل ويجب استبدالها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكل شيء على ما يرام، هذه لامبة مراقبة يجب أن تضيء طالما كانت فرامل اليد سليمة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) عندما يوجد عائق مثل عامود او جزيرة في طريق ذات اتجاهين",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nيجوز عبور العائق من يمينه او من يساره الا اذا وجدت اشارة تشير الى خلاف ذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب عبور العائق من الجهة اليمنى الا اذا وجدت اشارة تلزم بالعبور من يساره",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز عبور العائق من جهته اليسرى اذا لم تكن هناك حركة سير من الجهة المقابلة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعبور اي عائق يكون دائما من جهته اليمنى",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) الشاخصة<img src=\"images/d05bcffa-1e25-4541-b954-268c9d3f857d.jpg\">&nbsp;معناها :",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nلك حق الأولوية في الطريق التي أمامك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسر إلى الأمام أمامك طريق ذات اتجاه واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nسر إلى الأمام فقط وإذا كان السهم باتجاه مائل فسر في اتجاه السهم",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "29 ) في اية حالة يمكن ان تسبب حمولة في عدم توازن المركبة ؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nعندما تكون اكثرية الحمولة في مقدمة الصندوق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يوجد تأثير على توازن المركبة من جراء وضع الحمولة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعندما تكون اكثرية الحمولة في مؤخرة الصندوق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nعندما تكون اكثرية الحمولة في وسط الصندوق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) ماذا ينتج عن حمولة غير مربوطة ؟",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nانقلاب المركبة في المنعطفات والضرر بالسائق وعابري الطريق الآخرين",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتلف الحمولة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا توجد اهمية للامر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحفظ توازن المركبة وخصوصا في المنعطفات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

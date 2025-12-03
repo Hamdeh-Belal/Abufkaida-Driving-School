@@ -1,0 +1,790 @@
+{
+    "formNum": 26,
+    "questions": [
+        {
+            "text": "1 ) عندما تعطي مركبة أمامك اشارة بانها تريد الاستدارة الى اليسار",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nيمكن عبورالمركبة من جهة اليمين",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nممنوع اجتياز المركبة من جهة اليمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالاجتياز يجوز فقط من الجهة اليسرى",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع الاجتياز من اية جهة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) قبل قمة انحدار ممنوع الاجتياز",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كان وزن مركبتك اكثر من 4 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفقط اذا كانت هناك الاشارة ممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n\"فقط في طريق ذات اتجاهين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي جميع الاحوال عندما تكون الرؤية محدودة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "3 ) من هي الجهات المخولة بسحب رخصة السواقة ؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nالشرطة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمحاكم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسلطة الترخيص",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "4 ) هل يعتبر التقاء طريق مع مدخل او مخرج لمحطة وقود مفترق طرق ؟",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nيعتبر التقاء مخرج المحطة مع الطريق مفترق طرق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيعتبر التقاء مدخل المحطة مع الطريق مفترق طرق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا ، الا اذا دلت شاخصة على خلاف ذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nنعم يعتبر مفترق طرق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) هل يجوز إعطاء الإشارة باليد؟",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nنعم، إذا تعطل جهاز إعطاء الإشارات في المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nكلا ، ممنوع إخراج اليد من المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجميع الإجابات غير صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nنعم، يجب إعطاء الإشارة باليد في كل حالة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) عندما توقف المركبة في منحدر مع رصيف ، تستعمل فرامل اليد",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nتوجه العجلات الأمامية لجهة وسط الطريق وتستعمل الغيار الخلفي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتوجه العجلات الأمامية لجهة وسط الطريق وتستعمل الغيار الأول",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتوجه العجلات الأمامية لجهة الرصيف وتستعمل الغيار الأول",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتوجه العجلات الأمامية لجهة الرصيف وتستعمل الغيار الخلفي",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "7 ) تنفذ الاستدارة إلى اليسار من طريق ذات اتجاهين المقسمة بواسطة خط فاصل متواصل",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nمن أقصى يمين الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمن المكان المريح للسائق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن أقصى يسار الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nقريب على قدر الامكان من الخط الفاصل المتواصل",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "8 ) من هو المسؤول في نظر القانون عن استعمال حزام الأمان من قِبل الركاب في المركبة ؟",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nصاحب المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالسائق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nصاحب المركبة وسائقها",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) عند السير بمحاذاة باص واقف في المحطة ، يجب التمهل",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كان الباص يقل اولادا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي جميع الاحوال",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nفقط اذا كان الباص مليء بالركاب",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي جميع الاحوال عندما لا يعرقل ذلك حركة السير",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) ماذا يسبب ضغط هواء اكثر من المطلوب في الاطار ؟",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nتماسك ضعيف للاطار مع الطريق وتلف وسط نعل الاطار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعبور سهل عند سفر المركبة في طريق مشوشة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمقود قاسي وتلف جوانب الاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتكسير الزنبركات من عدم مرونة الاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) أنت تسير خلف مركبة وأشعة الشمس تبهر نظرك، في هذه الحالة",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nسر بسرعة تلائم مدى الرؤية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتوجه نظرك الى أسفل &nbsp;الطريق قريب الى مركبتك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتقترب جدا الى المركبة التي أمامك لتصد عنك أشعة الشمس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتجتاز المركبة التي أمامك",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما هو اقصى وزن اجمالي مسموح به لمركبة شاحنة ذات مدارين؟",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nلغاية 4000 كغم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلغاية 14999 كغم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلغاية 19000 كغم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلغاية 5000 كغم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) ما هي العملية الاولى لمحرك رباعي الاشواط؟",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nالانفجار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالامتصاص",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالاخراج",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالضغط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) ما هي وظيفة الفتحات الصغيرة الموجودة في غطاء تنك السولار",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nلا توجود فتحات في غطاء تنك الوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلملء تنك الوقود بالوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<div>لكي نستطيع ان نرى كمية الوقود في تنك البنزين</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<div>لملائمة الفارغ في تنك السولار مع الضغط الجوي</div>",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "15 ) ما هو الفرق بين المسلك والسبيل",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nالمسلك لبعض المركبات الميكانيكية والسبيل لجميع المركبات الميكانيكية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمسلك لجميع المركبات والسبيل لبعض مستعملي الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالمسلك للمركبات الحديثة والسبيل للمشاة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمسلك للجميع المركبات والسبيل للدرجات الهوائية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) اشر الى الجملة الصحيحة",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nالسائق ملزم بالحذر عليه ان يسوق دائما بسرعة بطيئة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nسائق يقترب لمكان لعبور &nbsp;المشاة ليس مجبرا بالتمهل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسائق مركبة لا يعتدي على حق الاخرين باستعمال كامل للطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز لصاحب دكان ان يبقى مكان وقوف لاستعمال زبائنه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) هل يجوز لاية مركبة التوقف لانزال واصعاد ركاب بعد الشاخصة&nbsp;<img src=\"images/dc3b3aeb-cd7c-4aa9-8382-8e6453bbca2a.jpg\">&nbsp;في طريق داخل المدن؟",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nلا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز للصالون العمومي ما عدا حدود محطة باصات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز للصالون العمومي والباص العمومي فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) ممنوع ايقاف أو توقف مركبة قبل خط الانتظار",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nقبل 20 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nقبل 15 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nقبل12 متر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nقبل25 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) هل تنهي الشاخصة&nbsp;<img src=\"images/523d0205-b907-48e4-af15-cb69d8b992af.jpg\">&nbsp;مفعول الشاخصة&nbsp;<img src=\"images/faec0d26-36f8-4ecc-a686-5cc712fcb164.jpg\">&nbsp;؟",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nنعم تنهيه.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط الشاخصة&nbsp;<img src=\"images/8a1626b6-7665-4adc-9392-8bd398f37d45.jpg\">&nbsp;تنهي مفعولها .",
+                    "images": [
+                        {
+                            "path": "images/8a1626b6-7665-4adc-9392-8bd398f37d45.jpg",
+                            "id": "8a1626b6-7665-4adc-9392-8bd398f37d45"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا لا تنهيه.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط المفترق القريب ينهي مفعولها .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) كيف يتم فتح غطاء المبرد ( الرادياتور ) عندما يكون المحرك ساخن؟",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nممنوع فتح الغطاء عندما يكون المحرك ساخن.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب فتح الغطاء بعد أن تبرد المياه داخل الرادياتور.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب فتح الغطاء بحذر خوفا من انطلاق البخار الساخن.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجب فتح الغطاء فورا لإطلاق البخار.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) يضيء مصباح تحذير الأضواء في لوحة المقاييس (التابلو) :",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nعندما نستعمل الضوء العالي.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعندما نستعمل الضوء الواطئ.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعندما نستعمل نور الالتقاء.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعندما نستعمل مصابيح الوقوف.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) ما معنى الوزن الاجمالي المسموح به بالنسبة لمركبة الشاحنة ؟",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nوزن الحمولة المقرر من قبل منتج المركبة&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nوزن الحمولة المسموح بها من قبل سلطة الترخيص&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالوزن الفارغ للمركبة ووزن السائق والوقود وادوات المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالوزن الفارغ للمركبة ووزن الحمولة المسموح بها التي عينت من قبل سلطة الترخيص&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "23 ) ماذا يسبب سوق مركبة محركها خالي من الزيت؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nسير غير منتظم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخراب المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nاضافة طاقة للمحرك لكن مع اجهاد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتبخر الماء المقطر في البطارية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) ما معنى طريق ليست بلدية؟",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nكل طريق ليست فيها اشارة سير تدل على الدخول لطريق البلدية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nكل طريق داخل المدينة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكل طريق اقيمت على مدخلها اشارة سير دخول الى طريق بلدية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكل طريق فيها مسلكان على الاقل في كل اتجاه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) انت تسير في طريق بلدية بسرعة 50كم/ساعة وامامك تسير مركبة بنفس الاتجاه وبنفس السرعة",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتجتازها فقط اذا كانت الطريق خالية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتجتازها فقط في طريق ذات اتجاه واحد فيها مسلكان او اكثر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتجتازها فقط اذا لم تكن هناك اشارة تمنع التجاوز",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) ما هو اقصى ارتفاع للحموله في مركبة تجاريه &nbsp;وزنها الاجمالي 4000كغم؟\n<div>\n <br>\n</div>",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nلغاية 4 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلغاية 3 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلغاية 2.5 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلغاية 3.5 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "27 ) لا يجوز ان يزيد العرض الاجمالي لمركبة شاحنة يزيد وزنها الاجمالي عن 2500 كغم&nbsp;",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nعن 2.5 متر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعن 1.5 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعن 3 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعن 1.8 متر",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) عمق الاخاديد (الفرزات) في الاطار بموجب القانون",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nيجب ان لا يقل عن 2 ملم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجب ان لا يقل عن 15 سم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالسمك القانوني هو الذي يمكن من السير الامن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يوجد قانون يحدد السمك الادنى للاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) ماذا ترينا ساعة الحرارة في المحرك؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nدرجة حرارة المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nدرجة حرارة الزيت في &nbsp;المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nدرجة حرارة الماء في &nbsp;المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهذا دليل على ان الساعة لا تعمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) اذا ظهر الضوء الازرق على لوحة المقاييس ، هذا معناه",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nأننا نستعمل أضواء الوقوف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأننا نستعمل الضوء الواطي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأننا نستعمل الضوء العالي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nأننا نستعمل ماسحات الزجاج الامامي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

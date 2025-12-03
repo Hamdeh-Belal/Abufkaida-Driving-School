@@ -1,0 +1,810 @@
+{
+    "formNum": 24,
+    "questions": [
+        {
+            "text": "1 ) خط متقطع إلى جانب خط متواصل&nbsp;<img src=\"images/4bc02c28-2800-44a6-92cc-fc46d7600f4f.jpg\">&nbsp;معناه:",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nيجوز اختراقهما عند تجاوز مركبة بطيئة فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يجوز اختراقهما في أية حالة من الحالات.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز اختراقهما إذا كان الخط المتقطع على يمين الخط المتواصل.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز اختراقهما إذا كان الخط المتقطع على يسار الخط المتواصل.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) الشاخصة&nbsp;<img src=\"images/92e4c491-36ab-4e76-9aa3-f71837260703.jpg\">&nbsp;معناها :",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nاندماج شارع له حق الأولوية مع طريق جانبية من اليسار ، ممنوع الاستدارة إلى الطريق الجانبية .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاندماج شارع مع طريق جانبية لها حق الأولوية ، ممنوع الاستدارة إلى اليمين .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاندماج مع شارع له حق الأولوية ، ممنوع الاستدارة إلى اليسار .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاندماج شارع له حق الأولوية مع طريق جانبية من اليمين ، ممنوع الاستدارة إلى الطريق الجانبية .",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "3 ) الشاخصة&nbsp;<img src=\"images/1d9d9452-72bc-4149-a58f-fe3e8c5f1f9f.jpg\">&nbsp;معناها :",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nسر إلى الأمام أمامك طريق ذات اتجاه واحد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع الإجابات صحيحة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلك حق الأولوية في الطريق التي أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nسر إلى الأمام فقط وإذا كان السهم باتجاه مائل فسر في اتجاه السهم.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "4 ) ما هو الفرق بين الشاخصة&nbsp;<img src=\"images/d5bf4409-87c6-45a3-9a23-20da02e2fd03.jpg\">&nbsp;والشاخصة&nbsp;<img src=\"images/298612a2-16ff-408d-9ba1-493ff84fd652.jpg\">&nbsp;؟",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nالأولى تعني سبيل للدراجات فقط والثانية تمنع دخول الدراجات.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يوجد فرق بين الإشارتين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالأولى تمنع دخول الدراجات الهوائية والثانية تعني سبيل للدراجات الهوائية فقط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالأولى تمنع دخول الدراجات النارية والثانية تسمح بدخولها.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) ماذا تعني الشاخصة&nbsp;<img src=\"images/98039632-4a99-4a4b-a6e2-b613bf52e83a.jpg\">&nbsp;؟",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nخط متقطع على سطح الطريق يشير على انك تسير داخل المدن.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخط ابيض متقطع لا يجوز اختراقه قطعاً.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسائق المركبة لا يخترق الخط المتقطع ألا لغرض التجاوز.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nخط فاصل متقطع كخط فاصل متواصل لا يجوز اختراقه .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) ماذا ينهي مفعول الشاخصة&nbsp;<img src=\"images/2de08db3-f70a-4490-a371-acfdb1fb8b66.jpg\">؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nالشاخصة &nbsp;<img src=\"images/07cc1050-70b8-4797-be35-37fe4ad14340.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/07cc1050-70b8-4797-be35-37fe4ad14340.jpg",
+                            "id": "07cc1050-70b8-4797-be35-37fe4ad14340"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالشاخصة &nbsp;<img src=\"images/9d9e3877-40c0-4ad9-8a3b-62453958cc0a.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/9d9e3877-40c0-4ad9-8a3b-62453958cc0a.jpg",
+                            "id": "9d9e3877-40c0-4ad9-8a3b-62453958cc0a"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالمفترق القريب.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) يضيء نور الطريق ( العالي ) في المركبة ليلاً لمسافة:",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nلا تزيد عن 100م أمام المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا تقل عن 15م أمام المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا تقل عن 30م أمام المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا تقل عن 100م أمام المركبة.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "8 ) تمتد مساحة طرف الطريق لغاية:",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nكل مساحة بجانب حافة الشارع مهما كان عرضها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمتر واحد من حافة الشارع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالطريق المجاورة الأخرى.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nثلاثة أمتار من حافة الشارع أو لغاية قناة الصرف.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "9 ) كيف تتصرف قبل جسر ضيق؟",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nتستعمل الزامور.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتتمهل.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتستمر بدون زيادة السرعة وتعبر الجسر.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتستعمل الضوء العالي الفجائي.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) عند السوق خلف مركبة بيوم ماطر عليك",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nالاقتراب جدا من المركبة التي أمامك لتتجنب الوحل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأن تترك مسافة اعتيادية بينك وبين المركبة التي أمامك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأن تحافظ على مسافة أقل من المعتاد لكي لا تتزحلق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأن تحافظ على مسافة أكبر من المسافه العاديه",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "11 ) هل يجوز الوقوف بجانب الرصيف على شكل زاوية ؟",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nيجوز اذا كان هناك وسم خاص على سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجوز الوقوف بهذا الشكل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز للدراجات النارية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز في الطريق العريضة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) عندما توقف مركبة في طريق صاعدة بموازاة الرصيف",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nيجب ان تستعمل فرامل اليد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب توجيه العجلات الامامية الى وسط الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب ان تستعمل الغيار الامامي الاول",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) في طريق منحدرة",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nحق الاولوية للمركبات الصاعدة في جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nحق الاولوية للمركبات الصاعدة اذا لم تكن هناك امكانية لمرور مركبتين",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nحق الاولوية للمركبات التجارية التي يزيد وزنها الاجمالي المسموح به عن 4000 كغم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحق الاولوية للمركبات الثقيلة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) كيف نفحص فيما اذا كان هناك زيت كافٍ في الكارتير (حوض الزيت في المحرك(",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nبواسطة ادخال قضيب خاص الى حوض الزيت",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفي الكراج الذي يقوم بصيانة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي محطة تشحيم وغسيل المركبات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبالعين المجردة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) عند ايقاف المركبة والنزول منها",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nيجب استعمال فرامل اليد فقط اذا كان المركبة في طريق صاعدة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب استعمال فرامل اليد في جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجب استعمال فرامل اليد فقط اذا كانت المركبة في طريق منحدرة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب استعمال فرامل اليد فقط في حالة عدم تعشيق تروس الجير",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) هل يجوز ايقاف مركبة على مساحة فاصلة ؟",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nيجوز فقط اذا كان هناك خط فاصل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز بعد اتخاذ جميع وسائل الحذر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز الوقوف على مساحة فاصلة لكن لا يجوز السير عليها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "17 ) ماذا ينهي الشاخصة&nbsp;<img src=\"images/c4e7f667-7471-4f54-8468-8ebcfdca17b6.jpg\">&nbsp;؟",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nالمفترق القريب.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالشاخصة&nbsp;<img src=\"images/7f33ed50-5c17-4831-a5e0-c3fb223b70c1.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/7f33ed50-5c17-4831-a5e0-c3fb223b70c1.jpg",
+                            "id": "7f33ed50-5c17-4831-a5e0-c3fb223b70c1"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالشاخصة&nbsp;<img src=\"images/1183c428-1820-45b3-96b0-755872bf6a3b.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/1183c428-1820-45b3-96b0-755872bf6a3b.jpg",
+                            "id": "1183c428-1820-45b3-96b0-755872bf6a3b"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالشاخصة&nbsp;<img src=\"images/72a33403-98dc-4082-8ce5-6744995f4333.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/72a33403-98dc-4082-8ce5-6744995f4333.jpg",
+                            "id": "72a33403-98dc-4082-8ce5-6744995f4333"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) عندما يرى السائق الضوء الأخضر في الإشارة الضوئية ، الشاخصة&nbsp;<img src=\"images/ad00b572-a5a0-4c7e-8a64-962b232be176.jpg\">&nbsp;:",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nيجوز له السير في جميع الاتجاهات ما لم تكن هناك شاخصة إرشاد فوق الإشارة الضوئية تشير إلى خلاف ذلك.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز له السير في جميع الاتجاهات ما لم تكن هناك شاخصة تحذير فوق الإشارة الضوئية تشير إلى خلاف ذلك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز له السير إلى الأمام فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز له السير إلى الأمام والى اليمين فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) اذا اغلق المسلك الذي تسير فيه ، عليك اعطاء حق الاولوية للمركبات في المسالك الاخرى",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كان هناك خط فاصل متواصل يقسم الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفقط اذا كنت تسوق مركبة بطيئة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط في طريق ذات اتجاه واحد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "20 ) هل يجوز لفاحص يحمل هوية فاحص من سلطة الترخيص فحص مركبة وانزالها عن الطريق ؟",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nيجوز فقط لضابط شرطة برتبة ملازم اول وما فوق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز للفاحص عمل ذلك اذا ابرز امرا من سلطة الترخيص الرئيسية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكلا",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) يجوز الاستدارة للسير في الاتجاه المعاكس:",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nإذا لا يسبب ذلك عرقلة لحركة السير.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nإذا لا يسبب ذلك خطر لعابري الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإذا لم تكن هناك إشارة تمنع ذلك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) كيف تتصرف عندما نلاحظ ان هناك حيوان على الطريق",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nتمهل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا تهتم بالامر بتاتا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاستعمل الزامور",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nقف",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) في طريق منحدرة",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nحق الاولوية للمركبات الصاعدة في جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nحق الاولوية للمركبات الصاعدة اذا لم تكن هناك امكانية لمرور مركبتين",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nحق الاولوية للمركبات التجارية التي يزيد وزنها الاجمالي المسموح به عن 4000 كغم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحق الاولوية للمركبات الثقيلة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) قبل قمة انحدار ممنوع الاجتياز",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nفقط اذا كانت هناك الاشارة ممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفقط في طريق ذات اتجاهين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا كان وزن مركبتك اكثر من 4 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفي جميع الاحوال عندما تكون الرؤية محدودة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "25 ) يشير الخط الأصفر في الشاخصة&nbsp;<img src=\"images/62634826-7a77-40fa-b3ef-a00b5da48b71.jpg\">&nbsp;إلى:",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nجميع الإجابات غير صحيحة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nحافة الشارع عند وجود أحجار حافة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nحافة الشارع عندما لا توجد فيه أحجار حافة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nحافة الشارع في طريق داخل المدن فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) هل يجوز أن نصعد على الرصيف ونسير عليه لاجتياز عائق على الطريق",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nيمكن الصعود على الرصيف بالعجلات اليمنى فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيمكن اجتياز العائق فقط بالصعود على الرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع الصعود على الرصيف لاجتياز العائق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيمكن الصعود على الرصيف بحذر شديد وبالغيار الاول",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) هل يجوز إصلاح مركبة في الطريق أو في مكان وقوف عمومي ؟",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nيجوز إذا كان التصليح بسيطا وليس مقابل ورشة للتصليح .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجوز إصلاح مركبة في الطريق أو في مكان وقوف عام .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز لإصلاح البنشر فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز لميكانيكي مركبات فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) يسمح باستعمال المصباح الخلفي كمصباح فرملة بشرط",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nان يكون فيه نوران منفصلان وان يكون نور الفرملة اشد من نور المصباح الخلفي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\n<div>\n يجوز بشرطان يكون نور المصباح الخلفي اشد من نور الفرملة\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<div>\n لا يجوز استعمال نوران في مصباح واحد\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<div>\n يسمح بذلك في المركبات الخصوصية فقط\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) يجوز تجاوز مركبة متجاوزة",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nاذا كان في الطريق مسلكان او اكثر في نفس الاتجاه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاذا لم تكن المركبة المتجاوزة الاخير مركبة تجارية يزيد وزنها الاجمالي المسموح به عن 4 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي طريق ذات اتجاه واحد فيها مسلكان او اكثر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "30 ) ماذا يترتب على المشاة عندما تضيء الالة الضوئية بالضوء الاصفر المتقطع الشاخصة&nbsp;<img src=\"images/a27b8f08-a1a2-46b3-9d55-da6484f66d72.jpg\">",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nيجوز لهم عبور الشارع حتى وان لم يكن هناك ممر مشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز لهم عبور الشارع بحذر ما لم تكن هناك الة ضوئية خاصة بالمشاة تمنع بذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز لهم عبور الشارع لان المركبات تتمهل عند ظهور الضوء الاصفر المتقطع",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "5\nيجوز لهم عبور الشارع في اتجاه الضوء الاصفر المتقطع",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

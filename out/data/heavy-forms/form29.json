@@ -1,0 +1,785 @@
+{
+    "formNum": 28,
+    "questions": [
+        {
+            "text": "1 ) هل يجوز إطاعة الشاخصة<img src=\"images/1796f72f-16a6-40a9-90b9-04b7e8d1a1b8.jpg\">إذا أقيمت بعد الشاخصة<img src=\"images/18b0799d-f31a-4406-951f-f6c5b23b3667.jpg\">؟",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nقط عندما يكون هناك ضرورة لإعطاء حق الأولوية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم بشرط أن لا يسبب ذلك عرقلة لحركة السير.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلا.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) هل يجب ان توجد عجلة احتياطية في المركبة ؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nيجب ان توجد عجلة احتياطية في حالة صالحة للاستعمال",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجب ان توجد عجلة احتياطية الا اذا كانت هذه العجلة في التصليح",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا توجد ضرورة لذلك اذا كانت عجلات المركبة في حالة صالحة للاستعمال",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب ان توجد في المركبة الثقيلة عجلتان احتياطيان",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) هل يجوز لسائق سوق مركبة وهو تحت تأثير المشروبات الكحولية ؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nيجوز بأمر من الطبيب فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nكلا",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجوز بأمر من الطبيب فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nنعم",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) عندما توقف المركبة في طريق منحدرة مع وجود رصيف وتستعمل فرامل اليد",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nان توجه العجلات الخلفية الى جهة الرصيف وتستعمل الغيار النيوترال",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nان توجه العجلات الامامية الى جهة الرصيف فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nان توجه العجلات الامامية الى جهة الرصيف وتستعمل الغيار الخلفي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nأن توجه العجلات الامامية الى جهة الرصيف وتستعمل الغيار الاول",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) تُنفذ الاستدارة إلى اليسار من طريق ذات اتجاهين إلى طريق ذات اتجاهين فيها مسلكان أو أكثر في كل اتجاه",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nمن اقرب ما يكون من وسط الطريق إلى المسلك الأيسر في اتجاه سيرنا",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمن اقرب ما يكون إلى وسط الطريق بقوس عريض إلى اليمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن اقرب ما يكون إلى وسط الطريق إلى المسلك الأيمن في اتجاه سيرنا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن اقرب ما يكون إلى وسط الطريق إلى أقصى اليسار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) ما معنى ماكنة متنقلة ؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nمركبة ميكانيكية معدة للجر ولتنفيذ أعمال",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمركبة ميكانيكية معدة لتنفيذ أعمال ولكنها ليست معدة للجر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمركبة ميكانيكية معدة للجر أو نقلها على مركبة أخرى",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكومبرسر متنقل أو مولد كهرباء متنقل واللذان يُجران بواسطة مركبة تجارية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) عند إصابة المركبة بخلل يجب وضع مثلث التحذير",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nعلى الزجاج الخلفي للمركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخلف المركبة بحيث يستطيع السائق القادم من الخلف رؤية المثلث من مسافة 100م على الأقل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا توجد أهمية للمسافة المهم أن يكون خلف المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nخلف المركبة على مسافة 100م على الأقل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) اذا كان هناك شك بان المركبة التي تسير امامك قد تنحرف يسارا ، هل يجوز اجتيازها",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nعليك الاجتياز بسرعه فائقة على قدر الامكان",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعليك استعمال الزامور لتحذر &nbsp;السائق عند الاجتياز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nعليك ان تستعمل النور المتقطع لتحذير السائق الذي تجتازه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) عندما تصل الى مفترق طرق بدون اشارات سير وتقترب الى المفترق مركبة أخرى من اليمين",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nيجب اعطاء حق الاولوية للمركبة القادمة من اليمين",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nحق الاولوية للمركبة القادمة من اليمين فقط اذا كانت شاحنة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلك حق الاولوية لانك وصلت أولا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحق الاولوية فقط للمركبات السريعة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) اي مركبة لا يجوز لها تجاوز مركبة متجاوزة في طريق فيها مسلكان او اكثر في نفس الاتجاه ؟&nbsp;",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nالشاحنات والباصات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمركبة تجارية يزيد وزنها الاجمالي عن 4000 كغم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nجميع الاجابات صحيحة&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمركبة يزيد وزنها الاجمالي المسموح به عن 4000 كغم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) لكي نتاكد من وجود ماء كافي داخل الرادياتور, يجب",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nفحص ذلك بواسطة مقياس الماء في لوحة المقياس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاخراج مقياس الماء لنرى الى اي مدى يصل الماء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفتح غطاء الرادياتور لنرى الى اي حد يصل الماء",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالتوجه الى الكراج لفحص الرادياتور",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) يجوز استعمال اطارات في المركبة الشاحنة",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nحسب ضرورة اعمال صاحب المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nحسب حالة الطريق التي تسير فيها المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يوجد اي قيد في استعمال الاطارات في المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nحسب المقاييس التي سجلت في رخصة المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) ما هي مسافة ردة الفعل",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nالمسافة التي تقطعها المركبة من لحظة مشاهدة الخطر حتى وضع الرجل على الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالمسافة التي تقطعها المركبة من لحظة مشاهدة الخطر حتى الوقوف التام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمسافة التي تقطعها المركبة من لحظة الدوس على دواسة الفرامل حتى الوقوف التام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nهي مسافة الوقوف زائد مسافة الفرملة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) لكي نلائم بين دوران المحرك ودوران العجلات في المركبة نستعمل",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nدواسة الوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجهاز الغيارات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالموزع الكهربائي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nدعسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) المركبة التجارية هي",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nالمركبة التي يقل وزنها عن 15 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمركبة التي لها مدار خلفي واحد فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمركبة التي لا يزيد وزنها عن 4000 كغم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمركبة المستعملة او المعدة للاستعمال في نقل البضائع",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "16 ) مسافة رد الفعل هي المسافة التي تقطعها المركبة",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nمن لحظة رفع الرجل عن دعسة الوقود لغاية الوقوف التام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمن لحظة رؤية الخطر لغاية الوقوف التام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن لحظة الضغط على دعسة الفرامل لغاية الوقوف التام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن لحظة رؤية الخطر لغاية الضغط على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "17 ) الاشارة الضوئية تضيء بالضوء الاخضر وفوقها اقيمت الشاخصة&nbsp;<img src=\"images/5513eb0a-85cb-41af-a934-0e7260e4819b.jpg\">",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nلا يجوز تنفيذ استدارة لليسار على شكل حذوة فرس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس عندما يضيء الضوء الاحمر في الاشارة الضوئية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس فقط عندما لا تعمل الاشارة الضوئية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) ما أهمية سائل عادم الديزل (AdBlue) في مركبات الديزل؟",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nيساعد في عملية احتراق الوقود.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nليس له أية أهمية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيقلل من خروج الغازات السامة من ماسورة العادم.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيزيد من قدرة المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) على ماذا تدل الرموز التالية المطبوعة على علبة زيت المحرك لمحرك ديزل SAE40 ؟",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nدرجة لزوجة الزيت.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالشركة المنتجة للزيت.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nزيت لمحرك ديزل فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nزيت لمحرك ديزل لمركبة عمومية فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) لماذا يمنع فتح غطاء الرادياتور عندما يكون المحرك ساخنا؟",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nخروج بخار ماء ساخن قد يشوه جسم الانسان.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاحتمال انفجار المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاحتمال دخول الهواء إلى الجيوب المائية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاحتمال خروج الماء وغمر شمعات الاحتراق (البوجيات).",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) كيف تتصرف إذا سخنت الفرامل زيادة عن اللازم أثناء الفرملة المتواصلة ؟",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nاستمر بالسير العادي وقلل من استعمال الفرامل.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاستعمل بشكل مؤقت فرامل الوقوف (الهاندبريك).",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتوقف! انتظر إلى أن تبرد الفرامل واستمر بالسير بغيار واطئ جدا.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nاستمر بالسير بسرعة لكي تبرد الفرامل.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) أنت تسير في طريق وفجأة قدمت مركبة من الاتجاه المعاكس على المسلك الذي تسير فيه ، عليك",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nأن تتمهل وتتجه الى اليمين قدر الامكان وحتى الخروج الى هامش الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nأن تستعمل الزامور لتؤشر للسائق الرجوع الى مسلكه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاستعمال الضوء العالي لتحذير السائق القادم من الاتجاه المعاكس الرجوع الى مسلكه",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأن تتجه الى اليسار والى مسلك السير للاتجاه المعاكس",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) عندما يغير السائق او صاحب المركبة عنوانه",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nعليه ابلاغ سلطة الترخيص خلال 15 يوما",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعليه ابلاغ شركة التامين بذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعليه ابلاغ اقرب مركز للشرطة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعليه ابلاغ دائرة الهويات خلال 15 يوما",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) لاي ارتفاع يجوز تحميل حمولة سائبه&nbsp;",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nلغاية ارتغاع لا يحجب معه الرؤية للشباك الخلفي لكبينة السائق&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلغاية ارتغاع جوانب صندوق الحمولة&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلغاية ارتغاع الباب الخلفي لصندوق الحمولة&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلغاية ارتغاع كابينة السائق&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) يجب ان تكون الاطارات الموجودة على نفس المدار",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nمن نفس السمك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمن نفس اللون",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن نفس المقاييس",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمن نفس الانتاج",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) عند الخروج من محطة لوقوف المركبات يجب إعطاء حق الأولوية",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nللمركبات القادمة من اليمبن فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nللمركبات القادمة من اليمبن والأمام فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلجميع المركبات القاطعة أمامك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nللمركبات القادمة من اليسار فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) يسمح باستعمال المصباح الخلفي كمصباح فرملة بشرط",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nان يكون فيه نوران منفصلان وان يكون نور الفرملة اشد من نور المصباح الخلفي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\n<div>\n يجوز بشرطان يكون نور المصباح الخلفي اشد من نور الفرملة\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<div>\n لا يجوز استعمال نوران في مصباح واحد\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<div>\n يسمح بذلك في المركبات الخصوصية فقط\n <br>\n</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) الالة الضوئية تضيء بالضوء الاخضر وفوقها اقيمت الشاخصة&nbsp;<img src=\"images/47272378-be4a-41c9-8114-882038026d60.jpg\">\n<br>",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "5\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس فقط اذا كان المفترق خالي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "6\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "7\nلا يجوز تنفيذ استدارة لليسار على شكل حذوة فرس&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "8\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس فقط عندما لا تعمل الالة الضوئية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) عند اقترابك من مفترق طرق بدون شاخصات وتريد السير فيه الى الامام ، تقترب اتجاهك مركبة الى المفترق",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nقف في كل حال",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاستمر بالسير واقطع المفترق بسرعة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتمهل وحتى قف عند الضرورة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nقف واعط المركبة حق الاولوية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) الالة الضوئية تضيء بالضوء الاخضر وفوقها اقيمت الشاخصة&nbsp;<img src=\"images/d2cca756-9b45-4d8b-91dd-e63b38435f94.jpg\">\n<br>",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس فقط عند ظهور الضوء الاحمر في الاشارة الضوئية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يجوز تنفيذ استدارة لليسار على شكل حذوة فرس&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز تنفيذ استدارة لليسار على شكل حذوة فرس فقط عندما لا تعمل الالة الضوئية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

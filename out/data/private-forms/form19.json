@@ -1,0 +1,785 @@
+{
+    "formNum": 18,
+    "questions": [
+        {
+            "text": "1 ) الشاخصة&nbsp;<img src=\"images/785e7fd2-ce21-4192-be8a-a81add0bc79f.jpg\">&nbsp;تُلزم السائق بالوقوف :",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nلا توجد أهمية للمكان ، المهم أن يقف في الضوء الأحمر .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي مكان يستطيع منه رؤية حركة السير القاطعة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي المكان الذي يستطيع فيه السائق رؤية الآلة الضوئية القريبة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nقبل خط التوقف أو مكان عبور المشاة .",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "2 ) تعني الشاخصة&nbsp;<img src=\"images/1321697e-e268-4128-838d-40654c2a5960.jpg\">",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nجميع الإجابات غير صحيحة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nانتبه خلل في الإشارة الضوئية .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأمامك إشارة ضوئية على بعد 50 إلى 150م.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nاستعد للسير عند ظهور الضوء الأخضر.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) عندما تضغط على دعسة الفرامل وتلاحظ ان الفرامل لا تعمل ، فكيف تتصرف ؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nاحاول ايقاف المركبة بواسطة فرامل اليد",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاحاول ايقاف المركبة بواسطة احجار حافة الرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاحاول ايقاف المركبة بواسطة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاحاول ايقاف المركبة بواسطة اطفاء المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) اذا حدث بنشر في العجل",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nممنوع السير على هذا العجل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز السير ببطء الى اقرب مكان لتصليح البناشر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز السير ببطء الى اقرب محطة وقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز السير لمسافة كيلومتر واحد فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) ضغط هواء منخفض في الإطارات يسبب ؟",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nتوقف جهاز القيادة عن العمل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتلف سريع لقباقيب الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتلف الإطارات من الجوانب",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nجهاز قيادة سهل جدا",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) هل مسموح دفع مركبة بدون تشغيل محركها وادخالها الى طريق ممنوع دخول المركبات الميكانيكية فيها ؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nمسموح بشرط اتباع جميع وسائل الحذر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يجوز على الاطلاق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمسموح اذا كان الشخص الذي يدفعها يحمل رخصة سواقة لنفس نوع المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح لتفادي عرقلة السير فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) هل يجوز استعمال المركبة عندما لا يعمل فيها مصباح الفرملة ؟",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nيجوز لغاية اقرب كراج",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز في ساعات النهار فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز استعمال المركبة الى ان يصلح المصباح",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز اذا كنت تسوق مركبة في طريق غير رئيسية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) ما هو الفرق بين الشاخصة [[<img src=\"images/5293480d-fdf5-4b0d-bbb6-8eac938eeb82.jpg\">]] والشاخصة [[<img src=\"images/a62ec2ad-c46e-4798-a5b7-0cdbf8172ba6.jpg\">]] ؟",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nالأولى تعني سبيل للدراجات فقط والثانية تمنع دخول الدراجات.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يوجد فرق بين الإشارتين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالأولى تمنع دخول الدراجات الهوائية والثانية تعني سبيل للدراجات الهوائية فقط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالأولى تمنع دخول الدراجات النارية والثانية تسمح بدخولها.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) تعريف المسلك هو:",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nالطريق المعبدة كلها.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nكل طريق تتسع لأكثر من مركبتين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nقسم من عرض الشارع يكفي لسير صف واحد من المركبات التي تسير على أكثر من عجلتين.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالطريق المخصصة لنوع من عابري الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) عند وجود أسهم فوق الآلة الضوئية:",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nيكون السير حسب الأسهم عندما لا تعمل الآلة الضوئية فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيكون السير حسب الأسهم عندما تعمل الآلة الضوئية فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيكون السير فقط حسب الأسهم فوق الآلة الضوئية في جميع الحالات.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتكون هذه الأسهم ملزمة فقط إذا كان هناك أسهم على سطح الطريق .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) عند الاقتراب من ملتقى سكة حديد والشاخصة&nbsp;<img src=\"images/3f0b0124-f91d-483d-a629-b884aadf122a.jpg\">&nbsp;تعمل ولكن الحاجز مفتوح :",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nيجب على سائقي جميع أنواع المركبات التوقف قبل الملتقى .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز عبور الملتقى طالما أننا لا نسمع أو لا نرى القطار .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز عبور الملتقى بحذر إلى أن يتم إغلاقه بواسطة الحاجز .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب على الباص فقط التوقف في طريق ليست بلدية .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما معنى الشاخصة&nbsp;<img src=\"images/1c4ab2f4-9ecc-481e-b3f7-50a5b69394b7.jpg\">&nbsp;:",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nممنوع دخول مركبة تنقل مواد خطرة والملزمة بوسم بموجب القانون",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nممنوع دخول مركبة تنقل حاوية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع دخول المركبات التجارية ما عدا مركبات نقل القمامة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع دخول مركبة تجارية ذات صندوق مغلق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) الشاخصة&nbsp;<img src=\"images/df7a23ca-da95-4d72-a780-14381415f990.jpg\">&nbsp;تعني:",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nسر إلى اليسار أو إلى الأمام من خلف الشاخصة فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nسر إلى اليسار أو إلى الأمام من أمام الشاخصة فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالطريق إلى الأمام أو إلى اليسار باتجاه واحد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nسر إلى الأمام أو إلى اليسار.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "14 ) الشاخصة&nbsp;<img src=\"http://al-shawa.ps/Content/Images/17.jpg\">معناها :",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nاندماج شارع له حق الأولوية مع طريق جانبية من اليمين ، ممنوع الاستدارة إلى اليسار .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاندماج شارع مع طريق جانبية لها حق الأولوية ، ممنوع الاستدارة إلى اليمين .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاندماج شارع له حق الأولوية مع طريق جانبية من اليسار ، ممنوع الاستدارة إلى الطريق الجانبية .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاندماج مع شارع له حق الأولوية ، ممنوع الاستدارة إلى اليسار .",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "15 ) إشارة &nbsp;<img src=\"images/ce452f01-4371-45fc-9291-21dbd7e489fd.jpg\">تعني:",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nبداية الطريق السريعة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالطريق تتحول إلى مسلك واحد أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنهاية الطريق السريعة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nممنوع دخول هذه الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) السير بالمركبة الى الخلف",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nلا يجوز لانواع معينة من المركبات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمسموح في جميع الاحوال",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز الا في حالة الضرورة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمسموح اذا كان هناك انسان مرشد فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) يجب ان نحافظ على المسافة التي بيننا وبين المركبة التي أمامنا ونأخذ بعين الاعتبار",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nجميع الاجوبة صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nحالة الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسافة الوقوف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nسرعة السير",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) عند سوق مركبة تقع المسؤولية عن المركبة والركاب على عاتق",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nسائق المركبة وصاحبها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nسائق المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nصاحب المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nشركة التأمين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) إشارة&nbsp;<img src=\"images/44bc73cf-7a75-4d9f-a1e8-2e135932423c.jpg\">تعني:",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nقف وأعط حق الأولوية لحركة السير القاطعة أمامك.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nأعطِ حق الأولوية لحركة السير التي أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتمهل وأعط حق الأولوية لحركة السير القاطعة أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nقف لإعطاء حق الأولوية إذا كانت هناك مركبات قاطعة فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) الشاخصة&nbsp;<img src=\"images/8d5f196d-45fa-486e-82b7-0f14caed6c6e.jpg\">&nbsp;تعني :",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nمساحة فاصلة على طرف الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nوسم لمسلك المركبات العمومية.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nحدود حافة الطريق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nخطوط توقف للمركبات العمومية.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) ما معنى ماكنة متنقلة ؟",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nمركبة ميكانيكية معدة للجر ولتنفيذ أعمال",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمركبة ميكانيكية معدة لتنفيذ أعمال ولكنها ليست معدة للجر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمركبة ميكانيكية معدة للجر أو نقلها على مركبة أخرى",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكومبرسر متنقل أو مولد كهرباء متنقل واللذان يُجران بواسطة مركبة تجارية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) الشاخصة&nbsp;<img src=\"images/ed1aa692-7ad7-48d3-a2e8-64c4b0a7331e.jpg\">&nbsp;معناها:",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nأنت تقترب إلى ملتقى تقاطع طرق فيه إشارات ضوئية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nشاخصة قف أمامك على بعد 150 متراً.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nأعط حق الأولوية للمركبات القادمة من اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمدخل نفق أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) ما هي الشهادات التي يجب ان تكون مع السائق اثناء سوق مركبة؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nرخصة السواقة والتامين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nهوية ورخصة السواقة اما رخصة المركبة والتامين فيكونان مع صاحب المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nرخصة السواقة , الهوية, رخصة المركبة وشهادة التامين",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهوية وشهادة التامين ورخصة السواقة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) طريق سريعة هي&nbsp;",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nطريق ليست بلدية والمخصصة للمركبة الالية فقط وعلى مدخلها اقيمت اشارة تفيد بذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nطريق لا يجوز لمركبات تعليم السواقة الدخول فيها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nطريق لا يجوز لجميع الدراجات النارية الدخول فيها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) في أية حالات يجب على سائق المركبة الميكانيكية خفت الأضواء؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nإذا كان يسير نحو مركبة أخرى تسير في نفس الطريق أو في طريق مجاورة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nإذا كان يسير في منحدر شديد وطويل.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإذا كانت المركبة المقابلة تستدير إلى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nإذا كانت المركبة التي تسير خلفه تستدير إلى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) هل يجوز سياقة مركبة ميكانيكية في طريق داخل المدن ومصابيح مقدمتها تضيء بالضوء العالي؟",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nممنوع إلا إذا كانت الطريق غير مضاءة كما يجب ولا يوجد خطر بهر النظر.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nممنوع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح فقط في النهار.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) من وظائف القابض (الكلاتش) هو فصل المحرك عن صندوق الغيارات , ماذا يعني ذلك؟",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nيتوقف المحرك عن الدوران بينما تستمر تروس صندوق الغيارات بالدوران .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيستمر المحرك بالدوران بينما تروس صندوق الغيارات تتوقف عن الدوران .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيستمر المحرك بالدوران وتستمر تروس صندوق الغيارات بالدوران .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيتوقف المحرك عن الدوران وتتوقف معه تروس صندوق الغيارات عن الدوران .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) في المركبة المركب فيها آلة تصوير (كاميرا) خلفية:",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nتكشف المساحة الميتة التي تكونت أمام المركبة فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتكشف الكاميرا المساحة الميتة التي تكونت خلف المركبة عند السير إلى الأمام فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتكشف الكاميرا المساحة الميتة التي تكونت خلف المركبة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتكشف الكاميرا المساحة الميتة التي تكونت حول المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) الشرطي الذي يوجه سائق مركبة أن يدخل الى طريق ممنوع الدخول اليها",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nالاشارة لها أفضلية ويجب عدم الدخول لان ذلك يسبب خطر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nممنوع دخول السائق اذا كان الطريق مغلق من الجهتين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعلى السائق أن يدخل الطريق فقط في حالة حادثة طرق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأمر الشرطي يفضل على الاشارات وعلى قوانين السير",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "30 ) واجب إطاعة الإشاره لتوجيه السير في الحالات التالية",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nإذا أعطيت من قبل شرطي بلباس رسمي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط إذا أعطيت من قبل شرطي مرور توجد بحانبه مركبة شرطي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإذا أعطيت من قبل مراقب سير في المفترق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nإذا أعطيت من قبل ضابط جيش بدون لباس رسمي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

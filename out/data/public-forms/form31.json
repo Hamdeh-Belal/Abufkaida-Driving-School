@@ -1,0 +1,785 @@
+{
+    "formNum": 30,
+    "questions": [
+        {
+            "text": "1 ) هل يجب الانصياع للشاخصة&nbsp;<img src=\"images/d5ee33b4-d56f-40e5-aae8-1599be2d4946.jpg\">&nbsp;إذا أقيمت بعد الشاخصة&nbsp;<img src=\"images/bedd12fe-e64b-471b-9bb9-74a7580efc8c.jpg\">؟",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nنعم في جميع الأحوال.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنعم بشرط أن لا يسبب ذلك عرقلة لحركة السير.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط عندما يكون هناك ضرورة لإعطاء حق الأولوية.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) كم تبعد الشاخصة&nbsp;<img src=\"images/8bf553f9-5ca9-4d15-8163-60a6bb2cfa30.jpg\">&nbsp;عن المقطع الذي تصبح فيه الطريق باتجاهين؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nتقام هذه الشاخصة على بعد 50 إلى 100م من بداية المقطع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتقام هذه الشاخصة على بعد 150م من بداية المقطع.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتقام هذه الشاخصة على بداية المقطع.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتقام هذه الشاخصة على بعد 100م من بداية المقطع.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) لكي نتمنع من الصعوبات عند السير في طريق وعرة يجب",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nان نتمهل بالسير",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nان نسير بالغيار الاول لكي نستطيع الوقوف في اية لحظة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nان نضع رجلنا على دعسة الفرامل للاستعداد لكل طارىء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nان نزيد السرعة لنتجنب الرجات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) حامل رخصة سواقة يجوز له ان يسوق",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nانواع المركبات المدونة في رخصة سواقته",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nانواع المركبات المدونة في شهادة التأمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nانواع المركبات المدونة في رخصة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nانواع المركبة المذكورة في انظمة المرور",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) إذا أُقيمت الشاخصة&nbsp;<img src=\"images/ba794cf3-2396-41a0-a0f0-63acc37d84b5.jpg\">&nbsp;على يسار الطريق :",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك إذا كنت تريد الاستدارة إلى اليسار أو الاستدارة إلى اليسار للسير في الاتجاه المعاكس.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأعط حق الأولوية لحركة السير في الطريق القاطعة أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\n<div style=\"text-align: right;\">أعط حق الأولوية لحركة السير في الطريق القاطعة أمامك إذا كنت تريد الاستدارة إلى اليسار.</div>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<div style=\"text-align: right;\">جميع الإجابات صحيحة.</div>",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "6 ) ما هو السبب في فراغ مبالغ فيه في جهاز المقود؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nالاطارات متاكلة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخراطيم المقود متاكلة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكرة جهاز المقود (البطيخة) متاكلة او فراغ في توصيل شبكة المقود",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمحور المقود ملتوي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) اي عملية هي الاولى في محرك رباعي الدورة",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nاخراج",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nامتصاص",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nضغط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nانفجار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) ما هي وظيفة الثقب بغطاء خزان الوقود ؟",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nلتمكين دخول الهواء الخارجي للخزان ومساواة الضغط الداخلي للخزان مع الضغط الخارجي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلاخراج وقود من الخزان في حالة عدم التمكن من فتح الغطاء",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلمنع ضغط الغازات في جهاز الوقود",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلاخراج الوقود الفائض",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) ما هي وظيفة الزيت في المحرك؟",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nيساعد على تخفيض صوت المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيمنع الاحتكاك بين الاجزاء المتحركة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيمتص الغازات السامة ويخرجها عن طريق العادم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) هل يجب التاكد من ارتفاع مستوى الزيت داخل المحرك؟",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nنعم , يجب ان تكون كمية الزيت اقل من الحد لئلا يتمدد الزيت ويلوث جسم المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم , يجب ان تكون كمية الزيت اعلى بقليل من الحد لان الزيت يتبخر مع الحرارة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم , لان كمية الزيت تقدر من منتج المحرك وتكفي لعمل المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلا توجد اهمية لكمية الزيت اذا كانت اكثر او اقل من الحد المطلوب المهم ان يكون هناك ضغط زيت",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) ماذا ترينا ساعة الحرارة في المحرك؟",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nدرجة حرارة المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nدرجة حرارة الزيت في &nbsp;المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nدرجة حرارة الماء في &nbsp;المحرك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهذا دليل على ان الساعة لا تعمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما هو ترتيب العمليات بعد تركيب &nbsp;العجل الاضافي؟",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nانزال المركبة ثم شد البراغي بقوة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nشد برغيين متقابليين , انزال الرافعة ثم شد باقي البراغي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nشد البراغي بقوة وانزال المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nشد البراغي , انزال المركبة ثم تقوية شد البراغي",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) اذا كانت كمية زيت (سائل) الفرامل ناقصة:",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nهذا دليل على ان هناك نقص زيت في الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفرامل اليد لا تعمل بصورة جيدة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفرامل الرجل لا تعمل بصورة جيدة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهذا دليل على ان هناك تسرب زيت في الكارتير",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) لماذا يجب ان يكون ضغط الهواء في الاطارات حسب اوامر المنتج؟",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nللمحافظة على ثبات المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلمنع استهلاك زائد للاطارات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلتسهيل عملية المقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) سيارة مجهزة بمحرك الديزل,هل يجب ان تقفل مضخة البخ بواسطة سدادة",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nنعم, واجب قفل مضخة البخ بسدادة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنعم, ما عدا التراكتور وسيارات الصحة العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا, فقط السيارات العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا, لا حاجة لاقفال مضخة البخ بسدادة خلال 2000 ساعة عمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) ما هو السبب لغليان الماء داخل الرادياتور ولعدم تعبئة الدينامو للبطارية ؟",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nقشاط (حزام) المروحة رخو او ممزق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nنقص في مياه المبرد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنقص في زيت المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمحرك لا يعمل في صورة جيدة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) لماذا يجب ان يكون فراغ في دواسة الكلاتش&nbsp;",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nلنقل الغيارات بسرعة اكبر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا يجب ان يكون فراغ في دواسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللتقليل من استهلاك قطع الكلاتش",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلتسهيل عملية الدوس على دواسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) توازن عجلات غير صحيح يسبب",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nفقدان سريع لضغط الهواء في الاطارات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتاكل سريع في الاطارات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nارتفاع سريع في حرارة العجلات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتاكل سريع في محور المقود",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) ما هي الجملة الصحيحة ؟&nbsp;",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nالمركبة تسير لأن احتراق الوقود يتحول الى عادم لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمركبة تسير لأن احتراق الوقود يتحول الى كهرباء لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمركبة تسير لأن احتراق الوقود يتحول الى حرارة شديدة لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالمركبة تسير لأن احتراق الوقود يتحول الى قوة لتحريك المركبة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "20 ) عندما تكون براغي طوق العجل جنطة العجل رخوات",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nممنوع السير حتى نشد ونقوي البراغي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمسموح الاستمرار في السير ولكن ممنوع الجر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح الاستمرار في السير الى اقرب كراج\n<br>",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح الاستمرار في السير فقط اذا كانت فرامل التراكتور صالحة\n<br>",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "21 ) وظيفة الفرزات (الاخاديد) في الاطار هي",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nلتمكين حمولة زائدة في المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلالصاق الاوساخ والزيت في الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللحفاظ على شكل مستدير وموحد للاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالتقاط الاجسام الغريبة والمياه وزيادة تماسك الاطار في الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "22 ) بعد تشغيل المحرك من المستحسن تمكين المحرك من العمل لعدة دقائق",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nبسرعة 1500 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبسرعة 1200 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبسرعة 1000 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nبسرعة 800 دورة في الدقيقة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) عمق الاخاديد (الفرزات) في الاطار بموجب القانون",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nيجب ان لا يقل عن 2 ملم&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجب ان لا يقل عن 2 سم",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالسمك القانوني هو الذي يمكن من السير الامن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يوجد قانون يحدد السمك الادنى للاطار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) بالرغم من الضغط على دعسة الكلاتش للاخير فان تغير الغيارات صعبا",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nهناك فصل زيادة عن الازم في الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمشكلة في علبة التروس",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالكلاتش لا يفصل فصلا تاما",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nهناك فراغ كبير في الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) هل احتكاك االاطار بحافة الرصيف يشابة احتكاك &nbsp;الاطار بالاسفلت ؟&nbsp;",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nنعم لا يوجد فرق بين الحالتين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nكلا احتكاك الاطار بالاسفلت اخطر بكثير من احتكاكه بالرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nنعم احتكاك الاطار بحافة الرصيف يعادل احتكاكة بالكركار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكلا الاحتكاك في الحافة من شأنه تمزيق الاطار",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "26 ) ملائمة كرسي السائق ، مهمة للسائق",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nكي لا يتعب السائق عند السير وأن يعمل بصورة صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط لجلوس مريح",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا أهمية للأمر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط بالنسبة لطول أرجل السائق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) اخراج هواء من الاطار يحسن من تماسكه بالطريق",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nغير صحيح",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط اذا كانت الطريق رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا كانت الطريق جافة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nصحيح",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) الفرملة الفجائية الافضل على طريق رطبة هي&nbsp;",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nضغط قوي ومتواصل على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفرملة بواسطة فرملة اليد&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالضغط بالتدريج على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفرملة بواسطة تخفيض الغيارات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) اغلب ثقل الوقوف يقع على&nbsp;",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nالعجلات الخلفية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالعجلات الامامية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "5\nالثقل يتوزع بصورة متساوية على جميع العجلات فقط في طريق رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "6\nالثقل يتوزع بصورة متساوية على جميع العجلات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) ما هي القوة الطاردة المركزية ؟",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nالقوة التي تعمل على اخراج المركبة من داخل المنعطف الى الخارج",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالقوة التي تقاوم وقوف المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يوجد اي تأثير لهذه القوة على المركبة اطلاقا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالقوة التي تدفع المركبة بشكل مستقيم الى الامام",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,795 @@
+{
+    "formNum": 25,
+    "questions": [
+        {
+            "text": "1 ) ماذا يُنهي مفعول الشاخصة<img src=\"images/954de97d-0adc-4cd8-b74a-538387ef439e.jpg\">",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nالشاخصة<img src=\"images/9549ec84-188a-45f3-bb78-8698f8bf5d04.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/9549ec84-188a-45f3-bb78-8698f8bf5d04.jpg",
+                            "id": "9549ec84-188a-45f3-bb78-8698f8bf5d04"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالشاخصة<img src=\"images/5f75b221-5f57-4d33-ac36-4e3ecb8cdba3.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/5f75b221-5f57-4d33-ac36-4e3ecb8cdba3.jpg",
+                            "id": "5f75b221-5f57-4d33-ac36-4e3ecb8cdba3"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمفترق القريب .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) كيف يجب ان توسم الحمولة البارزة من مؤخرة المركبة ؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nيواسطة مثلث احمر عاكس في اقصى نقطة بارزة من الحمولة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nبواسطة فانوس ابيض او حمر في اقصى نقطة بارزة من الحمولة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبواسطة علم احمر في اقصى نقطة بارزة الحمولة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبواسطة مثلث ابيض عاكس في اقصى نقطة بارزة من الحمولة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) انك تقترب الى مفترق بدون شاخصات وتريد الاستدارة الى اليسار ، أمامك اقتربت مركبة الى المفترق",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nتمهل وحتى قف عند الضرورة لتعطي الاولوية للمركبة القادمة من الاتجاه المعاكس",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nللمركبة المنعطفة يسارا حق الاولوية في جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاستمر بالسير",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nقف فقط اذا كانت هناك اشارة السير قف",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) الليل في نظر القانون هو",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nفترة الوقت التي تبدأ قبل ربع ساعة من غروب الشمس وتنتهي قبل ربع ساعة من شروقها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفترة الوقت التي تبدأ بعد ربع ساعة من غروب الشمس وتنتهي بعد ربع ساعة من شروقها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفترة الوقت التي تبدأ بعد ربع ساعة من غروب الشمس وتنتهي قبل ربع ساعة من شروقها",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفترة الوقت التي تبدأ قبل ربع ساعة من غروب الشمس وتنتهي بعد ربع ساعة من شروقها",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) في أية مركبة تجارية يجب أن يوجد فانوس تحذير يبعث بنور اصفر متقطع",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nفي المركبة التجارية التي يزيد طولها عن 10 امتار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي المركبة التجارية التي يزيد وزنها الاجمالي المسموح به عن 16000 كغ",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي المركبة التجارية التي يزيد وزنها الاجمالي المسموح به عن 4000 كغم",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفي المركبة التجارية التي يزيد وزنها الاجمالي عن 15000 كغم",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) يجب على السائق التخفيف من سرعة مركبته",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nعند مروره عن باص واقف في المحطة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nبعد مروره عن محطة باص",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعند مروره عن كل محطة باص",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) عند اقتراب السائق من مكان لعبور المشاة",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nيمكن المشاة عبور الطريق ويتوقف عند الضرورة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجب ان يتوقف قبل مكان لعبور المشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيقف مركبته فقط اذا مركبه اخرى توقفت قبل مكان العبور",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيتوقف عن السير في كل حاله حتى عند عدم وجود مشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) عند السير في منحدر شديد",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nيجب المحافظة على مسافة اكبر بيننا وبين المركبة التي أمامنا فقط إذا كانت الطريق رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب المحافظة على مسافة اكبر بيننا وبين المركبة التي أمامنا في جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nيجب المحافظة على مسافة اكبر بيننا وبين المركبة التي أمامنا فقط إذا كانت الطريق ذات اتجاهين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب المحافظة على مسافة اصغر بيننا وبين المركبة التي أمامنا لأننا نسير ببطء",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) تُنفذ الاستدارة إلى اليسار من طريق ذات اتجاه واحد إلى طريق ذات اتجاه واحد",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nمن أقصى اليسار إلى أقصى اليمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمن أقصى اليسار إلى أقصى اليسار",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمن أقصى اليمين إلى أقصى اليسار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن وسط الطريق إلى أقصى اليسار",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) أية جملة من الجمل التالية صحيحة؟",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nلا يجوز لأحد ملء خزان وقود المركبة الميكانيكية طالما كان المحرك يعمل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجوز فقط لسائق مركبة تُقل أكثر من 11 راكباً ملء خزان وقودها طالما كان المحرك يعمل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز لسائق مركبة خصوصية ملء خزان وقودها إذا كان المحرك يعمل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يجوز لسائق الباص فقط ملء خزان الوقود طالما كان المحرك يعمل",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "11 ) ساعات السوق تشمل",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nالسواقه الفعليه بالاضافه لوقت الانتظار او اي عمل له علاقه بالسفر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nساعات السوق فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nساعات السوق لا تسري على سائق العمومي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيوم العطلة الاسبوعية",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما هي انواع المركبات التي يجب ان يكون فيها ماسحات زجاج امامية",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nجميع المركبات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع المركبات الميكانيكية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجميع المركبات في فصل الشتاء فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nكل مركبة اٌلية لها زجاج أمامي&nbsp;",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) من يجوز له سوق مركبة ميكانيكية بدون رخصة سواقة ؟",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nشرطي ببزته الرسمية عندما يسوق مركبه مدنية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجندي ببزته الرسمية عندما يسوق مركبة مدنية&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nجميع الاجابات صحيحة&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالذي يتعلم سواقة عندما يرافقة معلم سواقة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "14 ) ما هو الترتيب اللازم لتغيير العجل",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nفتح جميع البراغي تماما وبعد ذلك رفع العجل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nقبل كل شي رفع العجل, وبعد ذلك فتح البراغي تماما",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nترخية البراغي قليلا, رفع العجل, وبعد ذلك حل البراغي تماما",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفتح برغيين فقط , رفع العجل, وفتح باقي البراغي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) الفرملة الفجائية الافضل على طريق رطبة هي&nbsp;",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nضغط قوي ومتواصل على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفرملة بواسطة فرملة اليد&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالضغط بالتدريج على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفرملة بواسطة تخفيض الغيارات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) يعتبر التجاوز من اخطر العمليات في السياقة فقبل البدء بعملية التجاوز عليك",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nان لا تبدا بالتجاوز الا عند وجود خط فاصل متقطع",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nان تتجاوز المركبة التي امامك من جهة اليسار فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nان لا تبدا عملية التجاوز اذا لم تكن الطريق التي امامك خالية ومسافة كافية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nان لا تبدا بالسفر اذا كانت السرعة غير مناسبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) اذا كان ضغط الهواء في عجل من العجلات الامامية اقل من الضغط في العجل الآخر",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nيشد المقود لجهة العجل ذو الضغط المنخفض",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيشد المقود لجهة العجل ذو الضغط العالي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يؤثر ذلك على المقود اذا كان ضغط الهواء في العجلات الخلفية متساوي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيمكن ان ينكسر الزنبرك في جهة العجل ذو الضغط المنخفض",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) ماذا يجب أن نرى في المرايا العاكسة (الجانبية) الخارجية للمركبة؟",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nالحافة الجانبية للمركبة والطريق من جانبي الطريق.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالعجل الخلفي والمساحة التي أمامه.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأية مركبة متواجدة على الجانب الأيسر للمركبة وأيضا المشاة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأية مركبة متواجدة على يمين المركبة وهي في حالة سير.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) إبقاء المقود لفترة طويلة في وضع دوران كلي لمركبة تحتوي على جهاز قيادة ذي قوة مساعدة (باور ستيرنج) يؤدي إلى:",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nانزلاق العجلات في المنعطف.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nمقاومة محرك المركبة وزيادة الضغط على مضخة جهاز القيادة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nمقاومة محرك المركبة وتقليل الضغط على مضخة جهاز القيادة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمقاومة محرك المركبة وتصرف مضخة جهاز القيادة بشكل عادي.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) على ماذا يدل الرمز (Ah88) المطبوع على البطارية؟",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nشدة التيار الأقصى الذي يمكن سحبه من البطارية 88 أمبير.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالجهد الكهربائي الأقصى 88 فولت.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمقاومة الكهربائية للبطارية 88 اوم.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالسعة الكهربائية للبطارية 88 أمبير ساعة.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "21 ) قبل مكان لعبور المشاة ، ممنوع الاجتياز",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nفي جميع الاحوال",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفي جميع الاحوال في طريق ليست بلدية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط اذا كانت هناك الاشاره التي تحذر من الاقتراب من مكان لعبور المشاة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط في طريق ليست بلدية ذات مسلكين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) عند السير في طريق رطبة",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nهناك امكانيةبان تميل المركبة &nbsp;الى التزحلق كلما زادت السرعة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nتتزحلق المركبة الا اذا طغطنا بصوره متقطعة على دعسة الفرامل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتنقلب المركبة اذا كانت السرعة بطيئة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يوجد اى تأثير المركبه اذا كانت الاطارات صالحه",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) ماذا يجب على السائق ان يفعل اذا سقط قسم من الحمولة التي ينقلها على سطح الطريق ؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nتبليغ البلدية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nازالة الحمولة فورا عن الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتبليغ الشرطة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتبليغ شركة التأمين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) ماذا يجب على السائق ان يفعل اذا سقط قسم من الحمولة التي ينقلها على سطح الطريق ؟",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nتبليغ البلدية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nازالة الحمولة فورا عن الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتبليغ الشرطة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتبليغ شركة التأمين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) لا يجب ان تزيد قوة اضاءة &nbsp;مصباح واحد للسير الى الخلف في المركبة&nbsp;",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nعن 15 واط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعن 20 واط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعن 25 واط",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nعن 30 واط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) عند رفع المركبة لتغيير عجل يجب التأكد",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nمن ضمان عدم تحرك المركبة واستعمال فرامل اليد",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمن استعمال احذية الامان في جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن استعمال الغيار الامامي او الخلفي في المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) اذا كان عدد دورات المحرك اثناء السفر منخفض فذلك يسبب",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nاضرار محتملة للمحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nارتجاج المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nصعوبة في زيادة سرعة المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) عند انهاء الاجتياز في طريق ذات اتجاهين",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nيجب الرجوع الى المسلك الايمن بعد مشاهدة العجلات الخلفية للمركبة التي تجاوزناها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا مانع من البقاء في المسلك الايسر اذا كانت الطريق خالية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب الرجوع الى المسلك الايمن حالا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب الرجوع الى المسلك الايمن بعد المحافظة على مسافة كافية",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "29 ) عندما تحافظ على مسافة كافية من المركبة التي أمامك وهناك مركبة تسير خلفك فما هي النتائج ، حسب رأيك ، التي قد تسببها الفرملة الفجائية؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nحادث طرق من الخلف",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nحادث طرق من الأمام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nانفجار أحد الإطارات أو أكثر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) يجب ان تركب عاكسات الضوء",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nلكل انواع المركبات الميكانيكية ما عدا التراكتور",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلكل انواع المركبات الميكانيكية والعربات المجرورة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالتراكتور الصناعي فقط معفى من واجب تركيب العاكسات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالتراكتور الزراعي فقط معفى من واجب تركيب العاكسات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

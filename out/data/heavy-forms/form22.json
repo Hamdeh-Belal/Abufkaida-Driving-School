@@ -1,0 +1,785 @@
+{
+    "formNum": 21,
+    "questions": [
+        {
+            "text": "1 ) ما معنى الشاخصة&nbsp;<img src=\"images/8a4bf3be-3b81-4c63-8119-a18f5ea9fabc.jpg\">؟",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nمكان عبور المارة على بعد 150م تقريباً.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nسبيل للمشاة فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع دخول المارة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأولاد بقرب المكان.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "2 ) الشاخصة<img src=\"images/2257f33b-671a-4b25-94e4-36e01f589cc8.jpg\">&nbsp;تعني:",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nلا يجوز دخول مركبة يزيد ارتفاعها مع حمولتها عن عدد الأمتار المسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجوز دخول مركبة يزيد ارتفاع حمولتها من مسطح الصندوق عن عدد الأمتار المسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز دخول مركبة تجارية يزيد ارتفاعها بدون حمولتها عن عدد الأمتار المسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يجوز دخول مركبة يزيد ارتفاعها بدون حمولتها عن عدد الأمتار المسجل في الشاخصة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) ما هو اقصى ارتفاع للحمولة في مركبة تجارية يزيد وزنها الاجمالي عن 8000 كغم ؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nلغاية 3,5 متر عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلغاية 4 متر عن مسطح التحميل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلغاية 3 امتار ان سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلغاية 4 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "4 ) عندما تسوق بيوم ممطر خلف مركبة",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nتحافظ على مسافة اقل من المركبة التي امامك خوفا من التزحلق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتحافظ على مسافة الفرملة بينك وبين المركبة التي امامك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتحافظ على مسافة اكبر من المركبة التي امامك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nتترك مسافة اعتيادية بينك وبين المركبة التي امامك",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) هل يجب اقفال مضخة البخ في محرك ديزل بواسطة سدادة ( ختم رصاصي ) ؟",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nفقط في المركبات الشاحنة والمركبات العمومية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفقط في المركبات العمومية مثل التاكس والباص",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nنعم",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "6 ) كيف نوقف محرك الديزل عن العمل ؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\nبواسطة الدعسة على الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبواسطة ايقاف جريان الوقود",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nبواسطة ايقاف عمل الصبابات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبواسطة ايقاف عمل الصبابات",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) تُعتبر الطريق المغلقة من الجهتين في نظر القانون",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nتعتبر مسلك وليست طريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتعتبر مكان لسير المشاة وليست طريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتعتبر سبيل وليست طريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتعتبر طريق في نظر القانون",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "8 ) عند وجود أسهم على سطح الطريق للسير إلى الأمام والى اليمين والى اليسار",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nيجوز الانتقال من مسلك إلى آخر بعد اتخاذ وسائل الحذر",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز الانتقال من المسلك الأيسر إلى المسلك الأيمن فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز الانتقال من المسلك الأمامي إلى المسلك الأيمن لغرض التجاوز أو الاستدارة إلى اليسار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يجوز الانتقال من مسلك إلى آخر",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) في طريق منحدرة حق الأولوية للمركبات الصاعدة",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nفي جميع الحالات إلا إذا كانت المركبة النازلة شاحنة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي جميع الحالات",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإذا اقتضت الظروف إيقاف إحداهما",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nفي جميع الحالات إلا إذا كانت المركبة الصاعدة دراجة نارية تسير على عجلتين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) عند السير خلف مركبة وعند زيادة السرعة",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nيجب ان تحافظ على نفس المسافة بينكما",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب ان تتجاوزها اذا كانت الطريق غير خالية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب ان تحافظ على مسافة اقل بينك وبينها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب ان تحافظ على مسافة اكبر بينك وبينها",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "11 ) في طريق ليست خالية ولمسافة كافية",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nممنوع الاجتياز فقط اذا اقيمت شاخصة ممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجب الاجتياز ببطء وبحذر شديد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب الاجتياز بسرعة فائقة على قدر الامكان",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع الاجتياز",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "12 ) إقفال العجلات الأمامية يسبب",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nتوقف قوي في القسم الخلفي للمركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتوقف قوي في القسم الأمامي من المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتزحلق دائري",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتزحلق مستقيم إلى الأمام",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "13 ) هل يجوز لشرطي ايقاف مركبة ومنعها من السفر ادا كانت حمولتها او وسمها خلافا للقانون؟&nbsp;",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nيجوز لفاحص في سلطة الترخيص او يفعل ذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز لظابط شرطة برتبة ملازم اول فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز للشرطي ان يفعل ذلك الى ان يتم ترتيب الحمولة وفقا للقانون",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nلا يجوز لشرطي ان يفعل ذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) لماذا يجب ان يكون فراع معين في دعسة الكلاتش؟",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nلتسهيل عملية استعمال دعسة الكلاتش",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلملاءمة ارتفاع الدعسة للسائق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمطلوب قليل من الرخاوة في دعسة الكلاتش لان الرجل اليسرى اضعف من الرجل اليمنى",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلمنع استهلاك زائد لاجزاء الكلاتش",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "15 ) اذا ظهر الضوء الازرق على لوحة المقايس هذا معناه",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nاننا نستعمل اضواء الوقوف&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاننا نستعمل الضوء العالي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nاننا نستعمل ماسحات الزجاج الامامي&nbsp;",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاننا نستعمل الضوء الواطي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) ما هو السبب في فراغ مبالغ فيه في جهاز المقود؟",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nالاطارات متاكلة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخراطيم المقود متاكلة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكرة جهاز المقود (البطيخة) متاكلة او فراغ في توصيل شبكة المقود",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nمحور المقود ملتوي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) من بحوزته رخصة تراكتور أو دراجة نارية وحصل على رخصة أخرى&nbsp;",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nيعتبر سائق جديد",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يعتبر سائق جديد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يعتبر سائق جديد إذا كانت رخصته أكثر من سنتين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n&nbsp;يعتبر سائق جديد إذا كانت رخصته أقل من سنتين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) من بحوزته رخصة سواقة لتراكتور ويحصل على رخصة سواقة لمركبة خصوصية يعتبر سائق جديد؟",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nكلا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعم",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا يعتبر سائق جديد اذا كان يحمل رخصة التراكتور مدة تزيد عن سنة واحدة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا يعتبر سائق جديد اذا كان يحمل رخصة التراكتور مدة تزيد عن سنتين",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) في اي الحالات يجبر على الوقوف امام سكة الحديد",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nفي حالة وجود اشارة ضوئية مضيئة باللون الاحمر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nفي حالة وجود قطار يمر على السكة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفي حالة وجود اشارة قف تامر بذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "20 ) ما هو الحد الاقصى لارتفاع حمولة في شاحنة وزنها الاجمالي 3500 كغم ؟",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nلغاية 3,5 مترا عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلغاية 4 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلغاية 3,5 متر عن مسطح التحميل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلغاية 3 امتار عن سطح الطريق",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "21 ) في أية حالات يجب على سائق المركبة الميكانيكية خفت الأضواء؟",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nإذا كان يسير نحو مركبة أخرى تسير في نفس الطريق أو في طريق مجاورة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nإذا كان يسير في منحدر شديد وطويل.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإذا كانت المركبة المقابلة تستدير إلى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nإذا كانت المركبة التي تسير خلفه تستدير إلى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) عند الضغط الفجائي على دعسة الفرامل",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nالمركبة تتوقف في المكان اذا كانت السرعة 20 كم /ساعة او اقل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالمركبة تتوقف في الحال وكذلك المحرك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمركبة تسير مسافة معينة الى أن تتوقف",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالمركبة تتوقف في الحال وفي المكان فقط في طريق ليست رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) ما السبب في عدم استجابة الفرامل أثناء الفرملة؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nقيس الإطار غير مناسب.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nاهتراء جلدة واقي الغبار لمكابس الفرملة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعيار الفرامل اليدوية غير سليم.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتآكل المادة الاحتكاكية للفرامل.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "24 ) إذا تم وسم (تأشير) الشارع بخط فاصل متواصل وعلى يساره خط متقطع:",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nممنوع عبور الخطوط.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nخط متواصل مع خط متقطع على يساره هو مساحة فاصلة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسموح عبور الخط المتواصل من أجل التجاوز فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nذلك غير ممكن: يظهر الخط المتقطع فقط على يمين الخط الفاصل الأبيض.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) لماذا يمنع تركيب إضافات قاسية وبارزة في كابينة الركاب؟",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nلأن من شأن هذه الإضافات ، عند وقوع حادث ، أن تصيب بأذى الركاب والسائق.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلأنها تشوش ثبات المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمن أجل منع المس بمدى الرؤية للركاب أثناء الرجوع إلى الخلف.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن أجل منع إمكانية الضرر بإطارات المركبة.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) هل يجوز النزول من المركبة أو الصعود إليها عندما تكون في حالة سير؟",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nمسموح بإذن من ضابط الشرطة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nممنوع منعا باتا.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nممنوع ما عدا الحالة التي لا تشكل خطرا.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسموح أثناء النشاط الرياضي وفقط للركاب البالغين.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) الشرطي الذي يوجه سائق مركبة أن يدخل الى طريق ممنوع الدخول اليها",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nالاشارة لها أفضلية ويجب عدم الدخول لان ذلك يسبب خطر",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nممنوع دخول السائق اذا كان الطريق مغلق من الجهتين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعلى السائق أن يدخل الطريق فقط في حالة حادثة طرق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأمر الشرطي يفضل على الاشارات وعلى قوانين السير",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "28 ) عندما توقف المركبة في طريق منحدره وبموازاة الرصيف",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nعليك استعمال الغيار الخلفي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعليك ان توجه العجلات الامامية لجهة الرصيف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعليك استعمال فرامل اليد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجوبة صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "29 ) هل يجوز لصاحب مركبة خصوصية نقل ركاب بالاجرة ؟",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nيجوز بشرط ان تكون السفرة خاصة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nيجوز في الخطوط التي لا تعمل عليها مواصلات عامة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nممنوع",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nيجوز اذا كان صاحب المركبة الخصوصية يعمل في مؤسسة او شركة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "30 ) اذا قام شرطي بتوجيه سائق للدخول الى طريق ممنوع الدخول اليها",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nيجب على السائق اطاعة امر الشرطي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nلا يجوز للسائق دخول طريق ممنوعة حتى ولو امر شرطي بذلك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجب على السائق اطاعة الامر فقط اذا كان الشرطي برتبة ملازم اول وما فوق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز للسائق دخول الطريق الممنوعة فقط بطريقة الرجوع الى الخلف",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}

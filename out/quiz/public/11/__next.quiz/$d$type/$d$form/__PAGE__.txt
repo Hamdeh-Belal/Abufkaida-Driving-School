@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[6672,["/_next/static/chunks/8795a8ff888525e9.js","/_next/static/chunks/7be077901cf992d7.js","/_next/static/chunks/0383b02032827f5a.js","/_next/static/chunks/b6305c4a4b904df8.js"],"QuizClient"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"xvl5gkPQdnV_04MeiMs1F","rsc":["$","$1","c",{"children":[["$","$L2",null,{"type":"public","formNum":11,"folder":"public-forms","title":"أسئلة التؤوريا عمومي","totalForms":32}],[["$","script","script-0",{"src":"/_next/static/chunks/0383b02032827f5a.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/b6305c4a4b904df8.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

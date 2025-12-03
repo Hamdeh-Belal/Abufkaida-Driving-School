@@ -1,0 +1,825 @@
+{
+    "formNum": 9,
+    "questions": [
+        {
+            "text": "1 ) بأية سرعة تسير عند رؤياك الشاخصة&nbsp;<img src=\"images/d46f1901-042c-4d6a-b3f5-9b79eaafd428.jpg\">&nbsp;؟",
+            "questionNum": 0,
+            "choices": [
+                {
+                    "text": "1\nفي المركبات التجارية بسرعة لا تزيد عن 40كم/ساعة وفي المركبات الخصوصية بسرعة لا تزيد عن 50كم/ساعة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nبسرعة الغيار الأول فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nبالسرعة القصوى المسموح بها في أنظمة المرور.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nبسرعة تلائم وضع الطريق.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "2 ) هل يجوز لشخص يصطحب كلباً الدخول في شارع أقيمت على مدخله الشاخصة&nbsp;<img src=\"images/031c5e6f-d3cd-4d41-850e-ceac4f9bf2f3.jpg\">&nbsp;؟",
+            "questionNum": 1,
+            "choices": [
+                {
+                    "text": "1\nنعم يجوز .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز للضرير فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nكلا لا يجوز.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز له فقط إذا كان الكلب مربوطاً بقشاط .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "3 ) ما هي الشاخصة التي تشير إلى الدخول إلى طريق بلدية؟",
+            "questionNum": 2,
+            "choices": [
+                {
+                    "text": "1\nالشاخصة &nbsp;<img src=\"images/fb7fa60b-fb75-4a1b-be3c-0e45142d31a5.jpg\">&nbsp;.",
+                    "images": [
+                        {
+                            "path": "images/fb7fa60b-fb75-4a1b-be3c-0e45142d31a5.jpg",
+                            "id": "fb7fa60b-fb75-4a1b-be3c-0e45142d31a5"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nالشاخصة &nbsp;<img src=\"images/97b93c35-a557-4fdb-9cb2-a4a51d0accc9.jpg\">&nbsp;.",
+                    "images": [
+                        {
+                            "path": "images/97b93c35-a557-4fdb-9cb2-a4a51d0accc9.jpg",
+                            "id": "97b93c35-a557-4fdb-9cb2-a4a51d0accc9"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالشاخصة &nbsp;<img src=\"images/daa1be47-53a6-4965-8947-cbea0aa09abb.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/daa1be47-53a6-4965-8947-cbea0aa09abb.jpg",
+                            "id": "daa1be47-53a6-4965-8947-cbea0aa09abb"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nالشاخصة &nbsp;<img src=\"images/71a5f87e-f5a3-4b9c-803c-9b743bd38bd4.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/71a5f87e-f5a3-4b9c-803c-9b743bd38bd4.jpg",
+                            "id": "71a5f87e-f5a3-4b9c-803c-9b743bd38bd4"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "4 ) الشاخصة&nbsp;<img src=\"images/847e38b9-92b8-4518-ade4-314c92f76a2c.jpg\">&nbsp;معناها :",
+            "questionNum": 3,
+            "choices": [
+                {
+                    "text": "1\nلك حق الأولوية في طريق ضيقة بالنسبة لحركة السير القادمة من الجهة المقابلة.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nسر باتجاه السهم ، طريق ذات اتجاه واحد.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسر باتجاه السهم.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nأعط حق الأولوية في الطريق الضيقة لحركة السير القادمة من أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "5 ) ماذا تعني الشاخصة&nbsp;<img src=\"images/7ffa9140-1fb4-4061-8e6c-2b32ed4b2e48.jpg\">&nbsp;؟",
+            "questionNum": 4,
+            "choices": [
+                {
+                    "text": "1\nخط متقطع على سطح الطريق يشير على انك تسير داخل المدن.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخط ابيض متقطع لا يجوز اختراقه قطعاً.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nسائق المركبة لا يخترق الخط المتقطع ألا لغرض التجاوز.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nخط فاصل متقطع كخط فاصل متواصل لا يجوز اختراقه .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "6 ) ما هي الشاخصة التي تعني منعطف حاد إلى اليمين؟",
+            "questionNum": 5,
+            "choices": [
+                {
+                    "text": "1\n<img src=\"images/3fcdf8ea-8fd1-4320-8562-a642340c2d2f.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/3fcdf8ea-8fd1-4320-8562-a642340c2d2f.jpg",
+                            "id": "3fcdf8ea-8fd1-4320-8562-a642340c2d2f"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\n<img src=\"images/deaf17e4-a726-44c3-8d09-fe0f50e80e14.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/deaf17e4-a726-44c3-8d09-fe0f50e80e14.jpg",
+                            "id": "deaf17e4-a726-44c3-8d09-fe0f50e80e14"
+                        }
+                    ],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\n<img src=\"images/a303beb8-8e05-4025-b432-82c6d1fc98bf.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/a303beb8-8e05-4025-b432-82c6d1fc98bf.jpg",
+                            "id": "a303beb8-8e05-4025-b432-82c6d1fc98bf"
+                        }
+                    ],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\n<img src=\"images/8808c3b6-7638-4bba-9681-27c917711801.jpg\">",
+                    "images": [
+                        {
+                            "path": "images/8808c3b6-7638-4bba-9681-27c917711801.jpg",
+                            "id": "8808c3b6-7638-4bba-9681-27c917711801"
+                        }
+                    ],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "7 ) هل يجوز لصاحب مركبة خصوصية نقل ركاب بالاجرة ؟",
+            "questionNum": 6,
+            "choices": [
+                {
+                    "text": "1\nممنوع",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز بشرط ان تكون السفرة خاصة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز في الخطوط التي لا تعمل عليها مواصلات عامة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز اذا كان صاحب المركبة الخصوصية يعمل في مؤسسة او شركة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "8 ) لمن مسموح ان يستدير للسير في الاتجاه المعاكس ؟",
+            "questionNum": 7,
+            "choices": [
+                {
+                    "text": "1\nفقط لسائق المركبة التي لا يزيد وزنها الاجمالي المسموح به عن 4 طن",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلسائق كل مركبة بشرط ان لا يسبب عرقلة او خطر وعندما لا توجد اشارة تمنع ذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلجميع المركبات ما عدا المركبات الطويلة التي يزيد طولها الاجمالي عن 15 مترا",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلسائق المركبة الخصوصية والتاكسي العمومي فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "9 ) هل يجوز لسائق باص أن يطلب من الركاب إخلاء مكان لمعاق صعد للباص ؟",
+            "questionNum": 8,
+            "choices": [
+                {
+                    "text": "1\nنعم ، للركاب الجالسين في المقعدين الأماميين للانتقال إذا طلب المعاق ذلك .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعلى المعاق أن يجد مكان له دون تدخل سائق الباص .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز للسائق عمل ذلك .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الأجوبة صحيحة .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "10 ) ما هي وظيفة فلتر الهواء في المحرك؟",
+            "questionNum": 9,
+            "choices": [
+                {
+                    "text": "1\nمنع حدوث الباك فاير (Back Fire).",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nنعومة صوت المحرك.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nتنقية الهواء الداخل إلى المحرك من الغبار.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الإجابات صحيحة.",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "11 ) ينير مصباح الرجوع إلى الخلف الطريق خلف المركبة لمسافة:",
+            "questionNum": 10,
+            "choices": [
+                {
+                    "text": "1\nلا تزيد عن 25م.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nلا تزيد عن 10م.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nلا تقل عن 10م.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nلا تزيد عن 15م.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "12 ) ما هي واجبات سائقي المركبات تجاه مركبة امن؟",
+            "questionNum": 11,
+            "choices": [
+                {
+                    "text": "1\nتحويل مركباتهم إلى يمين الطريق والتمهل وإعطاء مركبة الأمن حق الأولوية.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتحويل مركباتهم إلى يمين الطريق والوقوف هناك وإعطاء مركبة الأمن حق الأولوية.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتخفيف سرعة مركباتهم لكي يسمحوا لمركبة الأمن بالمرور.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nزيادة سرعة مركباتهم لكي لا يعرقلوا حركة مركبة الأمن.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "13 ) من هو عابر الطريق في نظر قانون المرور ؟",
+            "questionNum": 12,
+            "choices": [
+                {
+                    "text": "1\nكل من يستعمل الطريق للسفر أو المشي أو الوقوف.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nالماشي في الطريق فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nالمركبات والمشاة والحيوانات.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمن يعبر الطريق من جهة الى اخرى.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "14 ) ما هي المسافة التي تحافظ عليها بينك وبين المركبة التي تسير امامك في طريق داخل المدن ؟",
+            "questionNum": 13,
+            "choices": [
+                {
+                    "text": "1\nمسافة تكفي لايقاف المركبة في اي وقت لمنع وقوع حادث",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nمسافة الوقوف",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nمسافة الفرملة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nمسافة تكفي لدخول مركبة فيها",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "15 ) عندما تقترب من مفترق طرق مليء بالمركبات",
+            "questionNum": 14,
+            "choices": [
+                {
+                    "text": "1\nتمهل لكي تمكن المركبات من اخلاء المفترق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nاستعمل الزامور واعبر المفترق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nاستمر بالسير لكي لا تعرقل حركة السير من خلفك",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nاستمر بالسير ولكن ببطء",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "16 ) سائق المركبة التي تسير امامك اعطى اشارة بأنه يريد الاستدارة الى اليسار",
+            "questionNum": 15,
+            "choices": [
+                {
+                    "text": "1\nيجوز العبور عن يمينه مع اخذ الحذر والتأكد ان عرض الطريق يكفي لذلك",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nيجوز العبور عن يمينه فقط في مفترق طرق منظم بآلة ضوئية",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nلا يجوز العبور عن يمينه ويجب الانتظار الى ان يكمل الاستدارة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجب تجاوزه قبل ان يكمل الاستدارة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "17 ) لمن يجوز السير على طرف الطريق ؟",
+            "questionNum": 16,
+            "choices": [
+                {
+                    "text": "1\nلمركبات ليست آلية ، لتراكتورات ومركبات بطيئة من اجل فسح المجال لتجاوزها",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nللمركبات الغير آلية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللدراجات الهوائية فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nممنوع السير على طرف الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "18 ) ما هي الشهادات التي يجب ان تكون مع السائق اثناء سوق مركبة ؟",
+            "questionNum": 17,
+            "choices": [
+                {
+                    "text": "1\nرخصة السواقة ، الهوية ، رخصة المركبة وشهادة التأمين وأية شهادة اخرى يفرضها القانون او الانظمة",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nهوية وشهادة التأمين ورخصة السواقة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nرخصة السواقة والتأمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nهوية ورخصة السواقة اما رخصة المركبة والتأمين فيكونان مع صاحب المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "19 ) عند الاقتراب من ملتقى سكة حديد والحاجز مفتوح:-",
+            "questionNum": 18,
+            "choices": [
+                {
+                    "text": "1\nعلى السائق التمهل في جميع الحالات.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nعلى السائق التوقف إذا كان يسوق باصاً.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nعلى السائق التوقف في جميع الحالات على مسافة 4م من اقرب قضيب سكة حديد",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعلى السائق التوقف إذا كان يسوق باصاً في طريق داخل المدن فقط.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "20 ) عندما نقسم الطريق بواسطة خط فاصل متواصل",
+            "questionNum": 19,
+            "choices": [
+                {
+                    "text": "1\nيجوز اختراق الخط لاجتياز مركبة يجرها حيوان",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nممنوع اجتياز مركبة اخرى",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nيجوز اختراق الخط اذا كانت هناك مركبة واقفة على جهة الطريق",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nيجوز اختراق الخط الفاصل اذا كان على يمينه خط متقطع",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "21 ) في طريق شديدة الانحدار يجب ان نحافظ على مسافة اكبر من المركبة التي امامنا",
+            "questionNum": 20,
+            "choices": [
+                {
+                    "text": "1\nفي جميع الاحوال",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nفقط اذا كانت الطريق رطبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nفقط في الليل",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nفقط اذا كانت المركبة التي امامك تسير بسرعة زائدة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "22 ) على السائق واجب إيقاف مركبته قبل ملتقى سكة حديد داخل المدن ومجهز بحاجز والحاجز مفتوح :",
+            "questionNum": 21,
+            "choices": [
+                {
+                    "text": "1\nلا يوجد واجب كهذا على السائق إذا كان الحاجز مفتوحاً .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nهذا الواجب مفروض على سائق الباص فقط .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nإذا كانت المركبة تنقل أكثر من 7 ركاب عدا السائق .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nإذا كانت المركبة تنقل مواد مشتعلة .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "23 ) من هو المسؤول عن استعمال حزام الامان من قبل الركاب في المركبة ؟",
+            "questionNum": 22,
+            "choices": [
+                {
+                    "text": "1\nالسائق",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "2\nصاحب المركبة وسائقها",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nصاحب المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجابات صحيحة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "24 ) تقع المسؤولية للتأكد من نظافة الباص من الداخل على :",
+            "questionNum": 23,
+            "choices": [
+                {
+                    "text": "1\nعلى صاحب الشركة .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nعلى السائق نفسه .",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nعلى السائق الذي انتهى دوام عمله .",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nعلى بائع التذاكر .",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "25 ) ما هي وظيفة البطارية",
+            "questionNum": 24,
+            "choices": [
+                {
+                    "text": "1\nفصل التيار الكهربائي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nخزن التيار الكهربائي",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nقياس التيار الكهربائي",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتوليد التيار الكهربائي",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "26 ) تعني الشاخصة&nbsp;<img src=\"images/4d2682e0-9dde-4b3c-9560-09a5ffa00810.jpg\">&nbsp;:",
+            "questionNum": 25,
+            "choices": [
+                {
+                    "text": "1\nأنت تسير في طريق فيها خطر التزحلق.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nأنت تسير في طريق مائلة إلى اليمين.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nأمامك خطر التزحلق على بعد 150م.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nالطريق متعرجة أمامك على بعد 150م.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "27 ) تعني الشاخصة&nbsp;<img src=\"images/a02ff674-7010-497f-b554-39aaf0f02929.jpg\">:",
+            "questionNum": 26,
+            "choices": [
+                {
+                    "text": "1\nتمهل الطريق مغلقة لغرض التصليح.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nتمهل أمامك أشغال في الطريق.",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nتمهل أمامك مشاة.",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nتمهل الطريق مشوشة أمامك.",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "28 ) من هو المسؤول عن صلاحية المركبة الميكانيكية؟",
+            "questionNum": 27,
+            "choices": [
+                {
+                    "text": "1\nصاحب المركبة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nصاحب المركبة وسائقها",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "3\nالكراج الذي تصلح فيه المركبة",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nسائق المركبة فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        },
+        {
+            "text": "29 ) في مفترق طرق غير مجهز باشارة يجب اعطاء حق الاولوية",
+            "questionNum": 28,
+            "choices": [
+                {
+                    "text": "1\nللمركبة القادمة من جهة اليمين وتنعطف الى اليسار",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nللمركبة الالية القادمة من جهة اليمين والتي تسير الى الامام",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nللمركبات الالية القادمة من جهة اليمين",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "4\nجميع الاجوبة صحيحة",
+                    "images": [],
+                    "isCorrectResult": true
+                }
+            ]
+        },
+        {
+            "text": "30 ) يعتبر التجاوز من اخطر العمليات في السياقة فقبل البدء بعملية التجاوز عليك",
+            "questionNum": 29,
+            "choices": [
+                {
+                    "text": "1\nان لا تبدا بالتجاوز الا عند وجود خط فاصل متقطع",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "2\nان تتجاوز المركبة التي امامك من جهة اليسار فقط",
+                    "images": [],
+                    "isCorrectResult": false
+                },
+                {
+                    "text": "3\nان لا تبدا عملية التجاوز اذا لم تكن الطريق التي امامك خالية ومسافة كافية",
+                    "images": [],
+                    "isCorrectResult": true
+                },
+                {
+                    "text": "4\nان لا تبدا بالسفر اذا كانت السرعة غير مناسبة",
+                    "images": [],
+                    "isCorrectResult": false
+                }
+            ]
+        }
+    ]
+}
