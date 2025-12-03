@@ -1,10 +1,13 @@
-export const dynamic = "force-static";
+import { MetadataRoute } from "next";
 
-export default function sitemap() {
+export const dynamic = "force-static";
+export const revalidate = 3600;
+
+export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://abufkaida-driving-school.netlify.app";
   const today = new Date().toISOString().split("T")[0];
 
-  const routes = [
+  const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: baseUrl,
       lastModified: today,
@@ -73,9 +76,11 @@ export default function sitemap() {
     },
   ];
 
-  // Add all quiz forms
+  // Add all quiz form pages
+  const quizForms: MetadataRoute.Sitemap = [];
+
   for (let i = 1; i <= 29; i++) {
-    routes.push({
+    quizForms.push({
       url: `${baseUrl}/quiz/private/${i}`,
       lastModified: today,
       changeFrequency: "monthly",
@@ -84,7 +89,7 @@ export default function sitemap() {
   }
 
   for (let i = 1; i <= 29; i++) {
-    routes.push({
+    quizForms.push({
       url: `${baseUrl}/quiz/heavy/${i}`,
       lastModified: today,
       changeFrequency: "monthly",
@@ -93,7 +98,7 @@ export default function sitemap() {
   }
 
   for (let i = 1; i <= 32; i++) {
-    routes.push({
+    quizForms.push({
       url: `${baseUrl}/quiz/public/${i}`,
       lastModified: today,
       changeFrequency: "monthly",
@@ -101,5 +106,5 @@ export default function sitemap() {
     });
   }
 
-  return routes;
+  return [...staticRoutes, ...quizForms];
 }
