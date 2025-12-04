@@ -52,7 +52,7 @@ export function PdfViewer({ url, title }: PdfViewerProps) {
       </div>
 
       {/* PDF Frame */}
-      <div className="relative aspect-[3/4] lg:aspect-[4/3] bg-muted overflow-y-auto lg:overflow-hidden max-h-[70vh] lg:max-h-none">
+      <div className="relative w-full bg-muted overflow-hidden" style={{ height: "70vh" }}>
         {error ? (
           <div className="absolute inset-0 flex items-center justify-center flex-col gap-4">
             <div className="text-center">
