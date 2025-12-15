@@ -1,7 +1,13 @@
 "use client"
 
 import { useState, useRef } from "react"
-import { ZoomIn, ZoomOut, Maximize, AlertCircle, Download } from "lucide-react"
+import {
+  ZoomIn,
+  ZoomOut,
+  Maximize,
+  AlertCircle,
+  Download,
+} from "lucide-react"
 import { Button } from "@/components/ui/button"
 
 interface PdfViewerProps {
@@ -10,18 +16,17 @@ interface PdfViewerProps {
 }
 
 export function PdfViewer({ url, title }: PdfViewerProps) {
-  const [loading, setLoading] = useState(true)
   const [error, setError] = useState(false)
-  const iframeRef = useRef<HTMLIFrameElement>(null)
+  const containerRef = useRef<HTMLDivElement>(null)
 
-  const handleIframeError = () => {
-    setError(true)
-    setLoading(false)
-  }
+  const handleFullscreen = () => {
+    if (!containerRef.current) return
 
-  const handleIframeLoad = () => {
-    setLoading(false)
-    setError(false)
+    if (document.fullscreenElement) {
+      document.exitFullscreen()
+    } else {
+      containerRef.current.requestFullscreen?.()
+    }
   }
 
   return (
@@ -29,27 +34,25 @@ export function PdfViewer({ url, title }: PdfViewerProps) {
       {/* Toolbar */}
       <div className="flex items-center justify-between p-4 border-b border-border bg-muted">
         <h2 className="font-bold">{title}</h2>
+
         <div className="flex items-center gap-2">
-          {!error && (
-            <>
-              <Button variant="ghost" size="icon" aria-label="تكبير" disabled>
-                <ZoomIn className="w-5 h-5" />
-              </Button>
-              <Button variant="ghost" size="icon" aria-label="تصغير" disabled>
-                <ZoomOut className="w-5 h-5" />
-              </Button>
-              <Button
-                variant="ghost"
-                size="icon"
-                aria-label="ملء الشاشة"
-                onClick={() => {
-                  iframeRef.current?.requestFullscreen()
-                }}
-              >
-                <Maximize className="w-5 h-5" />
-              </Button>
-            </>
-          )}
+          <Button variant="ghost" size="icon" disabled>
+            <ZoomIn className="w-5 h-5" />
+          </Button>
+          <Button variant="ghost" size="icon" disabled>
+            <ZoomOut className="w-5 h-5" />
+          </Button>
+
+          {/* Fullscreen */}
+          <Button
+            variant="ghost"
+            size="icon"
+            aria-label="ملء الشاشة"
+            onClick={handleFullscreen}
+          >
+            <Maximize className="w-5 h-5" />
+          </Button>
+
           <Button variant="ghost" size="icon" asChild>
             <a href={url} download title="تحميل">
               <Download className="w-5 h-5" />
@@ -58,53 +61,62 @@ export function PdfViewer({ url, title }: PdfViewerProps) {
         </div>
       </div>
 
-      {/* PDF Frame */}
-      <div 
-        className="relative w-full bg-muted overflow-auto"
-        style={{ 
+      {/* PDF Container */}
+      <div
+        ref={containerRef}
+        className="w-full bg-muted relative"
+        style={{
           height: "clamp(50vh, 70vh, 80vh)",
-          minHeight: "400px"
+          minHeight: "400px",
         }}
       >
-        {error ? (
-          <div className="absolute inset-0 flex items-center justify-center flex-col gap-4">
-            <div className="text-center p-4">
-              <AlertCircle className="w-16 h-16 text-destructive mx-auto mb-4" />
-              <h3 className="text-lg font-bold mb-2">لم يتمكن من تحميل الكتاب</h3>
-              <p className="text-muted-foreground mb-4">
-                الملف غير متوفر حالياً أو يتطلب متصفح أحدث.
+        {!error ? (
+          <object
+            data={`${url}#zoom=85&toolbar=0&navpanes=0`}
+            type="application/pdf"
+            width="100%"
+            height="100%"
+            onError={() => setError(true)}
+          >
+            {/* Android / unsupported fallback */}
+            <div className="absolute inset-0 flex flex-col items-center justify-center gap-4 text-center p-6">
+              <AlertCircle className="w-12 h-12 text-muted-foreground" />
+              <p className="text-muted-foreground leading-relaxed">
+                على أجهزة Android يتم فتح ملفات PDF في تطبيق خارجي
+                للحصول على أفضل تجربة
               </p>
-              <Button asChild size="lg">
-                <a href={url} download>
-                  تحميل الكتاب
-                </a>
-              </Button>
-            </div>
-          </div>
-        ) : (
-          <>
-            {loading && (
-              <div className="absolute inset-0 flex items-center justify-center z-10 bg-muted">
-                <div className="animate-spin w-8 h-8 border-4 border-primary border-t-transparent rounded-full" />
+              <div className="flex gap-3">
+                <Button asChild size="lg">
+                  <a href={url} target="_blank" rel="noopener">
+                    فتح الكتاب
+                  </a>
+                </Button>
+                <Button variant="outline" asChild size="lg">
+                  <a href={url} download>
+                    تحميل
+                  </a>
+                </Button>
               </div>
-            )}
-            <iframe
-              ref={iframeRef}
-              src={`${url}#toolbar=1&navpanes=0&view=fitH`}
-              className="w-full h-full"
-              title={title}
-              onLoad={handleIframeLoad}
-              onError={handleIframeError}
-              style={{ border: "none", display: loading ? "none" : "block" }}
-              allowFullScreen
-            />
-          </>
+            </div>
+          </object>
+        ) : (
+          <div className="flex flex-col items-center justify-center h-full gap-4">
+            <AlertCircle className="w-12 h-12 text-destructive" />
+            <p className="text-muted-foreground">
+              تعذر عرض الملف داخل الصفحة
+            </p>
+            <Button asChild size="lg">
+              <a href={url} download>
+                تحميل الكتاب
+              </a>
+            </Button>
+          </div>
         )}
       </div>
 
-      {/* Mobile Download Hint */}
+      {/* Mobile Hint */}
       <div className="p-4 bg-muted text-center text-sm text-muted-foreground md:hidden">
-        اضغط على أيقونة التحميل للحصول على تجربة أفضل
+        📱 على الهاتف، يُفضل فتح أو تحميل الملف لقراءة أفضل
       </div>
     </div>
   )

@@ -1,16 +1,16 @@
-import type React from "react"
-import type { Metadata, Viewport } from "next"
-import { Cairo } from "next/font/google"
-import { Analytics } from "@vercel/analytics/next"
-import "./globals.css"
-import { Navbar } from "@/components/navbar"
-import { Footer } from "@/components/footer"
-import { FloatingButton } from "@/components/floating-button"
+import type React from "react";
+import type { Metadata, Viewport } from "next";
+import { Cairo } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
+import "./globals.css";
+import { Navbar } from "@/components/navbar";
+import { Footer } from "@/components/footer";
+import { FloatingButton } from "@/components/floating-button";
 
 const cairo = Cairo({
   subsets: ["arabic", "latin"],
   variable: "--font-cairo",
-})
+});
 
 export const metadata: Metadata = {
   title: "مدرسة أبو فخيدة لتعليم السياقة - رام الله",
@@ -44,12 +44,8 @@ export const metadata: Metadata = {
     },
   },
   icons: {
-    icon: [
-      { url: "/icon-light-32x32.png", media: "(prefers-color-scheme: light)" },
-      { url: "/icon-dark-32x32.png", media: "(prefers-color-scheme: dark)" },
-      { url: "/icon.svg", type: "image/svg+xml" },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/icon.png",
+    apple: "/icon.png",
   },
   verification: {
     google: "Q-41ECLY4g-GCrdlAb9pwHV-EvTq3lI3sEeIIfCnK8c",
@@ -61,13 +57,13 @@ export const metadata: Metadata = {
     "max-snippet": -1,
     "max-video-preview": -1,
   },
-}
+};
 
 export const viewport: Viewport = {
   themeColor: "#1e3a5f",
   width: "device-width",
   initialScale: 1,
-}
+};
 
 const jsonLd = {
   "@context": "https://schema.org",
@@ -108,12 +104,12 @@ const jsonLd = {
     opens: "09:00",
     closes: "18:00",
   },
-}
+};
 
 export default function RootLayout({
   children,
 }: Readonly<{
-  children: React.ReactNode
+  children: React.ReactNode;
 }>) {
   return (
     <html lang="ar" dir="rtl">
@@ -123,7 +119,9 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
       </head>
-      <body className={`${cairo.variable} font-sans antialiased min-h-screen flex flex-col`}>
+      <body
+        className={`${cairo.variable} font-sans antialiased min-h-screen flex flex-col`}
+      >
         <Navbar />
         <main className="flex-1">{children}</main>
         <Footer />
@@ -131,5 +129,5 @@ export default function RootLayout({
         <Analytics />
       </body>
     </html>
-  )
+  );
 }
